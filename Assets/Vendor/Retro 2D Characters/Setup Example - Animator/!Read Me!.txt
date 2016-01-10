@@ -1,0 +1,9 @@
+Hey fellow developers!
+
+This is a quick sample setup provided as an example on how to set up the Retro 2D Characters, using Unity's built-in Animator component.
+This includes only the standing/idle animations and walking animations for all four directions, just as a quick demo on how you could set things up.
+
+If you're interested in interchanging the different skin tones, outfits, eye colors etc. easily, I'd recommend looking at the different solutions available on the Unity Asset Store. Find the one that works best to suit your needs!
+
+Happy developing!
+/Marcus S, Perpetual Diversion
