@@ -26,6 +26,8 @@ public class Soldier : MonoBehaviour {
 	public Bullet bulletPrefab;
 	public float accuracyDeviation = 0.1f;
 
+	Animator myAnimator;
+
 	Soldier m_nearestEnemy;
 	public Soldier NearestEnemy {
 		get { return m_nearestEnemy; }
@@ -41,16 +43,40 @@ public class Soldier : MonoBehaviour {
 			if (oldState == SoldierState.Dead) {
 				GetComponentInChildren<SpriteRenderer>().enabled = true;
 				GetComponentInChildren<BoxCollider2D>().enabled = true;
-
 			}
 
 			if (m_state == SoldierState.Firing) {
+				SetAnimationTrigger("Stop");
 				rb.velocity = Vector2.zero;
 			}
+			else if (m_state == SoldierState.Marching) {
+				string marchDirectionName = "Walk Up";
+
+
+				if (Mathf.Abs(marchDirection.x) >= Mathf.Abs(marchDirection.y)) {
+					if (marchDirection.x > 0) {
+						marchDirectionName = "Walk Right";
+					}
+					else {
+						marchDirectionName = "Walk Left";
+					}
+				}
+				else {
+					if (marchDirection.y > 0) {
+						marchDirectionName = "Walk Up";
+					}
+					else {
+						marchDirectionName = "Walk Down";
+					}
+				}
+				SetAnimationTrigger(marchDirectionName);
+			}
 			else if (m_state == SoldierState.Reloading) {
+				SetAnimationTrigger("Stop");
 				currentReloadTime = reloadTime;
 			}
 			else if (m_state == SoldierState.Dead) {
+				SetAnimationTrigger("Stop");
 				currentRespawnTime = respawnTime;
 				GetComponentInChildren<SpriteRenderer>().enabled = false;
 				GetComponentInChildren<BoxCollider2D>().enabled = false;
@@ -70,6 +96,7 @@ public class Soldier : MonoBehaviour {
 	}
 
 	void Start () {
+		myAnimator = GetComponentInChildren<Animator>();
 		State = SoldierState.Marching;
 		health = maxHealth;
 	}
@@ -208,5 +235,11 @@ public class Soldier : MonoBehaviour {
 		health = maxHealth;
 		transform.position = position;
 		State = SoldierState.Marching;
+	}
+
+	void SetAnimationTrigger(string triggerName) {
+		if (myAnimator != null) {
+			myAnimator.SetTrigger(triggerName);
+		}
 	}
 }
