@@ -3172,6 +3172,56 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 486930, guid: 10afe3ad27f4b4d4787dd8d88ec8ce55, type: 2}
   m_PrefabInternal: {fileID: 1087143069}
+--- !u!1 &1115644155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 1115644158}
+  - 114: {fileID: 1115644156}
+  m_Layer: 0
+  m_Name: Army Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1115644156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1115644155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24dd59b1641040f98d1919dcd64902d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  armyType: 0
+  marchDirection: {x: 0, y: 0}
+  soldierPrefab: {fileID: 0}
+  maxSoldiers: 0
+  respawnTime: 0
+  spawnArea:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 5
+    height: 5
+--- !u!4 &1115644158
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1115644155}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.6748202, y: 2.2540014, z: -0.1971429}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
 --- !u!1 &1119457480
 GameObject:
   m_ObjectHideFlags: 1
@@ -3345,8 +3395,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHunger: 100
   maxIllness: 100
-  hungerIncreaseRate: 10
-  illnessIncreaseRate: 10
+  hungerIncreaseRate: 3
+  illnessIncreaseRate: 3
 --- !u!1001 &1158806478
 Prefab:
   m_ObjectHideFlags: 0
