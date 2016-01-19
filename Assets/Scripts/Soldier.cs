@@ -25,8 +25,20 @@ public class Soldier : MonoBehaviour {
 	public int maxHealth = 2;
 	public Bullet bulletPrefab;
 	public float accuracyDeviation = 0.1f;
+	public ArmySpawner mySpawner;
 
 	Animator myAnimator;
+
+	int m_health;
+	public int Health {
+		get { return m_health; }
+		set {
+			m_health = value;
+			if (m_health <= 0) {
+				State = SoldierState.Dead;
+			}
+		}
+	}
 
 	Soldier m_nearestEnemy;
 	public Soldier NearestEnemy {
@@ -85,7 +97,6 @@ public class Soldier : MonoBehaviour {
 		}
 	}
 
-	int health;
 	float currentReloadTime;
 	float currentRespawnTime;
 	Rigidbody2D rb;
@@ -96,9 +107,19 @@ public class Soldier : MonoBehaviour {
 	}
 
 	void Start () {
+		if (mySpawner == null) {
+			Debug.LogAssertion(string.Format("Soldier '{0}' has no spawner", name));
+		}
 		myAnimator = GetComponentInChildren<Animator>();
 		State = SoldierState.Marching;
-		health = maxHealth;
+		Health = maxHealth;
+
+		if (army == Army.BlueArmy) {
+			GetComponentInChildren<SpriteRenderer>().color = new Color(0f, 0f, 1f);
+		}
+		else if (army == Army.RedArmy) {
+			GetComponentInChildren<SpriteRenderer>().color = new Color(1f, 0f, 0f);
+		}
 	}
 
 	void LateUpdate() {
@@ -106,6 +127,10 @@ public class Soldier : MonoBehaviour {
 	}
 
 	void FixedUpdate () {
+		if (GameManager.Instance.State != GameState.Running) {
+			return;
+		}
+
 		switch (State) {
 		case SoldierState.Marching:
 			FixedUpdateMarching();
@@ -196,7 +221,7 @@ public class Soldier : MonoBehaviour {
 	void FixedUpdateDead() {
 		currentRespawnTime -= Time.fixedDeltaTime;
 		if (currentRespawnTime <= 0f) {
-			Respawn((Vector2)transform.position + respawnDistance * -marchDirection);
+			Respawn();
 			return;
 		}
 	}
@@ -224,17 +249,15 @@ public class Soldier : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D col) {
 		Bullet bullet = col.collider.GetComponent<Bullet>();
 		if (bullet != null) {
-			health -= 1;
-			if (health <= 0) {
-				State = SoldierState.Dead;
-			}
+			Health -= 1;
 		}
 	}
 
-	void Respawn(Vector2 position) {
-		health = maxHealth;
-		transform.position = position;
-		State = SoldierState.Marching;
+	void Respawn() {
+		if (mySpawner != null) {
+			mySpawner.RespawnSoldier(this);
+		}
+
 	}
 
 	void SetAnimationTrigger(string triggerName) {

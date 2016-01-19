@@ -121,12 +121,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   army: 0
   marchDirection: {x: 0, y: -1}
-  firingDistance: 4
+  firingDistance: 5
   marchSpeed: 0.4
   reloadTime: 3
   respawnDistance: 8
+  respawnTime: 2
   maxHealth: 2
   bulletPrefab: {fileID: 11432186, guid: d24f8b12e2a7b4ce3914b3dab468d98d, type: 2}
+  accuracyDeviation: 0.1
+  mySpawner: {fileID: 0}
 --- !u!212 &21293592
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -166,7 +169,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 0}
       propertyPath: firingDistance
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 0}
       propertyPath: marchSpeed

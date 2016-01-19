@@ -26,6 +26,10 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
+		if (GameManager.Instance.State != GameState.Running) {
+			return;
+		}
+
 		float x = Input.GetAxis("Horizontal");
 		float y = Input.GetAxis("Vertical");
 
@@ -58,6 +62,7 @@ public class Player : MonoBehaviour {
 			collectible.transform.SetParent(pickupSack.transform, false);
 			collectible.transform.position = new Vector2(0f, 0f);
 			collectible.OnPickedUp();
+			UpdateSackContents();
 			return;
 		}
 
@@ -75,7 +80,7 @@ public class Player : MonoBehaviour {
 			bool hasCollectedAll = (collectiblesRemaining.Length == collectibles.Length);
 
 			for (int i = 0; i < collectibles.Length; ++i) {
-				Debug.Log("Dropped off " + collectibles[i].name);
+				collectibles[i].transform.SetParent(null);
 				GameObject.Destroy(collectibles[i].gameObject);
 
 				GameManager.Instance.GetFamily().Hunger += collectibles[i].hungerAdjustment;
@@ -83,9 +88,15 @@ public class Player : MonoBehaviour {
 			}
 			GameManager.Instance.GetGUIManager().OnCollectibleUpdate(collectiblesRemaining.Length - collectibles.Length);
 
+			UpdateSackContents();
+
 			if (hasCollectedAll) {
 				GameManager.Instance.OnPlayerWins();
 			}
 		}
+	}
+
+	void UpdateSackContents() {
+		GameManager.Instance.GetGUIManager().OnItemsInSackUpdate(pickupSack.GetComponentsInChildren<Collectible>().Length);
 	}
 }

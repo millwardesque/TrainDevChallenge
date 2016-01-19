@@ -2,9 +2,54 @@
 using UnityEngine.SceneManagement;
 using System.Collections;
 
+public enum GameState {
+	Starting,
+	Running,
+	Paused,
+	GameOver,
+	PlayerWins
+};
+
 public class GameManager : MonoBehaviour {
 	public GUIManager guiManager;
 	public Family family;
+
+	GameState m_state;
+	public GameState State {
+		get { return m_state; }
+		set {
+			m_state = value;
+			Debug.Log(string.Format("Setting state to {0}", m_state));
+
+			if (m_state == GameState.Starting) {
+				ArmySpawner[] armySpawners = FindObjectsOfType<ArmySpawner>();
+				for (int i = 0; i < armySpawners.Length; ++i) {
+					for (int j = 0; j < 30; ++j) {
+						armySpawners[i].SpawnSoldier();
+					}
+				}
+
+				CollectibleSpawner[] collectibleSpawners = FindObjectsOfType<CollectibleSpawner>();
+				for (int i = 0; i < collectibleSpawners.Length; ++i) {
+					collectibleSpawners[i].SpawnCollectibles();
+				}
+
+				GameManager.Instance.GetGUIManager().OnCollectibleUpdate(GameObject.FindObjectsOfType<Collectible>().Length);
+			}
+			else if (m_state == GameState.Running) {
+				Time.timeScale = 1f;
+			}
+			else if (m_state == GameState.Paused) {
+				Time.timeScale = 0f;
+			}
+			else if (m_state == GameState.GameOver) {
+				Time.timeScale = 0f;
+			}
+			else if (m_state == GameState.PlayerWins) {
+				Time.timeScale = 0f;
+			}
+		}
+	}
 
 	public static GameManager Instance = null;
 
@@ -21,8 +66,13 @@ public class GameManager : MonoBehaviour {
 	}
 
 	void Start() {
-		Time.timeScale = 1f;
-		GameManager.Instance.GetGUIManager().OnCollectibleUpdate(GameObject.FindObjectsOfType<Collectible>().Length);
+		State = GameState.Starting;
+	}
+
+	void Update() {
+		if (State == GameState.Starting) {
+			State = GameState.Running;
+		}
 	}
 
 	public GUIManager GetGUIManager() {
@@ -34,13 +84,14 @@ public class GameManager : MonoBehaviour {
 	}
 
 	public void OnGameOver(string reason) {
-		Time.timeScale = 0;
+		Debug.Log(reason);
 		GetGUIManager().ShowGameOver(reason);
+		State = GameState.GameOver;
 	}
 
 	public void OnPlayerWins() {
-		Time.timeScale = 0;
 		GetGUIManager().ShowYouWin();
+		State = GameState.PlayerWins;
 	}
 
 	public void RestartLevel() {

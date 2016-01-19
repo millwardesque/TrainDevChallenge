@@ -37,6 +37,10 @@ public class Family : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (GameManager.Instance.State != GameState.Running) {
+			return;
+		}
+
 		Hunger += hungerIncreaseRate * Time.deltaTime;
 		Illness += illnessIncreaseRate * Time.deltaTime;
 	}
