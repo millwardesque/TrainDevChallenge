@@ -16,6 +16,11 @@ public class ArmySpawner : MonoBehaviour {
 
 	public void SpawnSoldier() {
 		Soldier newSoldier = Instantiate<Soldier>(soldierPrefab);
+		string soldierName = "Soldier - " + name + " - " + Random.Range(1, 10000);
+		while (GameObject.Find(soldierName) != null) {
+			soldierName = "Soldier - " + name + " - " + Random.Range(1, 10000);
+		}
+		newSoldier.name = soldierName;
 		RespawnSoldier(newSoldier);
 	}
 

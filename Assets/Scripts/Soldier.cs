@@ -200,6 +200,7 @@ public class Soldier : MonoBehaviour {
 
 		// Spawn bullet
 		Bullet newBullet = Instantiate<Bullet>(bulletPrefab);
+		newBullet.gameObject.name = "Bullet - (" + name + ")";
 		newBullet.shooter = gameObject;
 		newBullet.transform.position = transform.position;
 		newBullet.transform.position += (Vector3)(enemyDirection * 1.1f);	// @TODO Fix this hack. Shifts the bullet out of the shooter's collider
@@ -257,7 +258,6 @@ public class Soldier : MonoBehaviour {
 		if (mySpawner != null) {
 			mySpawner.RespawnSoldier(this);
 		}
-
 	}
 
 	void SetAnimationTrigger(string triggerName) {

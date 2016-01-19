@@ -68,6 +68,7 @@ public class Player : MonoBehaviour {
 
 		Bullet bullet = col.collider.GetComponent<Bullet>();
 		if (bullet != null) {
+			Debug.Log(string.Format("Shot by bullet {0}", bullet.name));
 			GameManager.Instance.OnGameOver("You got shot.");
 			return;
 		}
@@ -93,6 +94,22 @@ public class Player : MonoBehaviour {
 			if (hasCollectedAll) {
 				GameManager.Instance.OnPlayerWins();
 			}
+		}
+		else if (col.tag == "Crater") {
+			// @TODO Replace this with a non-hack
+			Debug.Log("Hidden!");
+			gameObject.layer = LayerMask.NameToLayer("In Cover");
+			GetComponentInChildren<SpriteRenderer>().sortingLayerName = "In Cover";
+			GetComponentInChildren<SpriteRenderer>().sortingOrder = 2;
+		}
+	}
+
+	void OnTriggerExit2D(Collider2D col) {
+		if (col.tag == "Crater") {
+			// @TODO Replace this with a non-hack
+			Debug.Log("Unhidden!");
+			gameObject.layer = LayerMask.NameToLayer("Player");
+			GetComponentInChildren<SpriteRenderer>().sortingLayerName = "Actors";
 		}
 	}
 

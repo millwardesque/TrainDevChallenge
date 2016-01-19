@@ -9,6 +9,7 @@ TagManager:
   - Dropzone
   - Soldier
   - Bullet
+  - Crater
   layers:
   - Default
   - TransparentFX
@@ -22,8 +23,8 @@ TagManager:
   - Actor
   - Collectible
   - Player
-  - 
-  - 
+  - In Cover
+  - Cover
   - 
   - 
   - 
@@ -48,6 +49,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1980698625
+    locked: 0
+  - name: In Cover
+    uniqueID: 2814027257
     locked: 0
   - name: Items
     uniqueID: 84075153
