@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour {
 		get { return m_state; }
 		set {
 			m_state = value;
-			Debug.Log(string.Format("Setting state to {0}", m_state));
 
 			if (m_state == GameState.Starting) {
 				ArmySpawner[] armySpawners = FindObjectsOfType<ArmySpawner>();

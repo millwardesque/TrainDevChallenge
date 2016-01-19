@@ -1,11 +1,39 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+public enum PlayerState {
+	Standing,
+	Walking,
+	Stunned,
+	Dead
+};
+
 [RequireComponent (typeof(Rigidbody2D))]
 public class Player : MonoBehaviour {
 	public float maxSpeed = 2f;
 	public float minAnimationSpeed = 0.1f;
 	public GameObject pickupSack;
+	public float stunnedDuration = 1f;
+	float stunnedRemaining = 0f;
+
+	PlayerState m_state;
+	public PlayerState State {
+		get { return m_state; }
+		set {
+			PlayerState oldState = m_state;
+			m_state = value;
+			Debug.Log(string.Format("Player state: {0}", m_state));
+
+			if (m_state == PlayerState.Standing) {
+				rb.velocity = Vector2.zero;
+				bodyAnimator.SetTrigger("Stop");
+			}
+			else if (m_state == PlayerState.Stunned) {
+				rb.velocity = Vector2.zero;
+				stunnedRemaining = stunnedDuration;
+			}
+		}
+	}
 
 	Rigidbody2D rb;
 	Animator bodyAnimator;
@@ -18,6 +46,7 @@ public class Player : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		bodyAnimator = GetComponentInChildren<Animator>();
+		State = PlayerState.Standing;
 	}
 
 	void LateUpdate() {
@@ -30,6 +59,32 @@ public class Player : MonoBehaviour {
 			return;
 		}
 
+		switch (State) {
+		case PlayerState.Standing:
+			OnStandingFixedUpdate();
+			break;
+		case PlayerState.Walking:
+			OnWalkingFixedUpdate();
+			break;
+		case PlayerState.Stunned:
+			OnStunnedFixedUpdate();
+			break;
+		default:
+			break;
+		}
+	}
+
+	void OnStandingFixedUpdate() {
+		float x = Input.GetAxis("Horizontal");
+		float y = Input.GetAxis("Vertical");
+
+		rb.velocity = new Vector2(x, y) * maxSpeed;
+		if (Mathf.Abs(x) > float.Epsilon || Mathf.Abs(y) > float.Epsilon) {
+			State = PlayerState.Walking;
+		}
+	}
+
+	void OnWalkingFixedUpdate() {
 		float x = Input.GetAxis("Horizontal");
 		float y = Input.GetAxis("Vertical");
 
@@ -52,7 +107,14 @@ public class Player : MonoBehaviour {
 			}
 		}
 		else {
-			bodyAnimator.SetTrigger("Stop");
+			State = PlayerState.Standing;
+		}
+	}
+
+	void OnStunnedFixedUpdate() {
+		stunnedRemaining -= Time.fixedDeltaTime;
+		if (stunnedRemaining < float.Epsilon) {
+			State = PlayerState.Standing;
 		}
 	}
 
@@ -70,7 +132,14 @@ public class Player : MonoBehaviour {
 		if (bullet != null) {
 			Debug.Log(string.Format("Shot by bullet {0}", bullet.name));
 			GameManager.Instance.OnGameOver("You got shot.");
+			State = PlayerState.Dead;
 			return;
+		}
+
+		Soldier soldier = col.collider.GetComponent<Soldier>();
+		if (soldier != null && (State == PlayerState.Walking || State == PlayerState.Standing)) {
+			rb.MovePosition(transform.position + ((soldier.transform.position - transform.position).normalized * -1f));
+			State = PlayerState.Stunned;
 		}
 	}
 
@@ -101,6 +170,7 @@ public class Player : MonoBehaviour {
 			gameObject.layer = LayerMask.NameToLayer("In Cover");
 			GetComponentInChildren<SpriteRenderer>().sortingLayerName = "In Cover";
 			GetComponentInChildren<SpriteRenderer>().sortingOrder = 2;
+			transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);
 		}
 	}
 
@@ -110,6 +180,7 @@ public class Player : MonoBehaviour {
 			Debug.Log("Unhidden!");
 			gameObject.layer = LayerMask.NameToLayer("Player");
 			GetComponentInChildren<SpriteRenderer>().sortingLayerName = "Actors";
+			transform.localScale = new Vector3(1f, 1f, 1f);
 		}
 	}
 
