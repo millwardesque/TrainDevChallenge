@@ -53,7 +53,6 @@ public class Soldier : MonoBehaviour {
 			m_state = value;
 
 			if (oldState == SoldierState.Dead) {
-				GetComponentInChildren<SpriteRenderer>().enabled = true;
 				GetComponentInChildren<BoxCollider2D>().enabled = true;
 			}
 
@@ -88,9 +87,8 @@ public class Soldier : MonoBehaviour {
 				currentReloadTime = reloadTime;
 			}
 			else if (m_state == SoldierState.Dead) {
-				SetAnimationTrigger("Stop");
+				SetAnimationTrigger("Dead");
 				currentRespawnTime = respawnTime;
-				GetComponentInChildren<SpriteRenderer>().enabled = false;
 				GetComponentInChildren<BoxCollider2D>().enabled = false;
 				rb.velocity = Vector2.zero;
 			}

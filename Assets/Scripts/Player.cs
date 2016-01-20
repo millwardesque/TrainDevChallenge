@@ -14,7 +14,10 @@ public class Player : MonoBehaviour {
 	public float minAnimationSpeed = 0.1f;
 	public GameObject pickupSack;
 	public float stunnedDuration = 1f;
+	public float deathDuration = 1f;
 	float stunnedRemaining = 0f;
+	float deathRemaining = 0f;
+	string deathReason;
 
 	PlayerState m_state;
 	public PlayerState State {
@@ -26,11 +29,16 @@ public class Player : MonoBehaviour {
 
 			if (m_state == PlayerState.Standing) {
 				rb.velocity = Vector2.zero;
-				bodyAnimator.SetTrigger("Stop");
+				bodyAnimator.SetTrigger("Walk Down");
 			}
 			else if (m_state == PlayerState.Stunned) {
 				rb.velocity = Vector2.zero;
 				stunnedRemaining = stunnedDuration;
+			}
+			else if (m_state == PlayerState.Dead) {
+				rb.velocity = Vector2.zero;
+				deathRemaining = deathDuration;
+				bodyAnimator.SetTrigger("Dead");
 			}
 		}
 	}
@@ -68,6 +76,9 @@ public class Player : MonoBehaviour {
 			break;
 		case PlayerState.Stunned:
 			OnStunnedFixedUpdate();
+			break;
+		case PlayerState.Dead:
+			OnDeadFixedUpdate();
 			break;
 		default:
 			break;
@@ -118,6 +129,13 @@ public class Player : MonoBehaviour {
 		}
 	}
 
+	void OnDeadFixedUpdate() {
+		deathRemaining -= Time.fixedDeltaTime;
+		if (deathRemaining < float.Epsilon) {
+			GameManager.Instance.OnGameOver(deathReason);
+		}
+	}
+
 	void OnCollisionEnter2D(Collision2D col) {
 		Collectible collectible = col.collider.GetComponent<Collectible>();
 		if (collectible != null) {
@@ -131,15 +149,16 @@ public class Player : MonoBehaviour {
 		Bullet bullet = col.collider.GetComponent<Bullet>();
 		if (bullet != null) {
 			Debug.Log(string.Format("Shot by bullet {0}", bullet.name));
-			GameManager.Instance.OnGameOver("You got shot.");
+			deathReason = "You got shot.";
 			State = PlayerState.Dead;
 			return;
 		}
 
 		Soldier soldier = col.collider.GetComponent<Soldier>();
 		if (soldier != null && (State == PlayerState.Walking || State == PlayerState.Standing)) {
-			rb.MovePosition(transform.position + ((soldier.transform.position - transform.position).normalized * -1f));
 			State = PlayerState.Stunned;
+			rb.MovePosition(transform.position + ((soldier.transform.position - transform.position).normalized * -0.5f));
+			return;
 		}
 	}
 
