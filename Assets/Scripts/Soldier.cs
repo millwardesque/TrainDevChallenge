@@ -63,7 +63,6 @@ public class Soldier : MonoBehaviour {
 			else if (m_state == SoldierState.Marching) {
 				string marchDirectionName = "Walk Up";
 
-
 				if (Mathf.Abs(marchDirection.x) >= Mathf.Abs(marchDirection.y)) {
 					if (marchDirection.x > 0) {
 						marchDirectionName = "Walk Right";
@@ -113,10 +112,10 @@ public class Soldier : MonoBehaviour {
 		Health = maxHealth;
 
 		if (army == Army.BlueArmy) {
-			GetComponentInChildren<SpriteRenderer>().color = new Color(0f, 0f, 1f);
+			GetComponentInChildren<SpriteRenderer>().color = new Color(0.3f, 0.3f, 1f);
 		}
 		else if (army == Army.RedArmy) {
-			GetComponentInChildren<SpriteRenderer>().color = new Color(1f, 0f, 0f);
+			GetComponentInChildren<SpriteRenderer>().color = new Color(1f, 0.3f, 0.3f);
 		}
 	}
 

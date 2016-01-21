@@ -1,0 +1,5051 @@
+fileFormatVersion: 2
+guid: 55c2ce88bbb3e467eabc4a819e215a7e
+timeCreated: 1453352990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Male Base - Light_0
+    21300002: Male Base - Light_1
+    21300004: Male Base - Light_2
+    21300006: Male Base - Light_3
+    21300008: Male Base - Light_4
+    21300010: Male Base - Light_5
+    21300012: Male Base - Light_6
+    21300014: Male Base - Light_7
+    21300016: Male Base - Light_8
+    21300018: Male Base - Light_9
+    21300020: Male Base - Light_10
+    21300022: Male Base - Light_11
+    21300024: Male Base - Light_12
+    21300026: Male Base - Light_13
+    21300028: Male Base - Light_14
+    21300030: Male Base - Light_15
+    21300032: Male Base - Light_16
+    21300034: Male Base - Light_17
+    21300036: Male Base - Light_18
+    21300038: Male Base - Light_19
+    21300040: Male Base - Light_20
+    21300042: Male Base - Light_21
+    21300044: Male Base - Light_22
+    21300046: Male Base - Light_23
+    21300048: Male Base - Light_24
+    21300050: Male Base - Light_25
+    21300052: Male Base - Light_26
+    21300054: Male Base - Light_27
+    21300056: Male Base - Light_28
+    21300058: Male Base - Light_29
+    21300060: Male Base - Light_30
+    21300062: Male Base - Light_31
+    21300064: Male Base - Light_32
+    21300066: Male Base - Light_33
+    21300068: Male Base - Light_34
+    21300070: Male Base - Light_35
+    21300072: Male Base - Light_36
+    21300074: Male Base - Light_37
+    21300076: Male Base - Light_38
+    21300078: Male Base - Light_39
+    21300080: Male Base - Light_40
+    21300082: Male Base - Light_41
+    21300084: Male Base - Light_42
+    21300086: Male Base - Light_43
+    21300088: Male Base - Light_44
+    21300090: Male Base - Light_45
+    21300092: Male Base - Light_46
+    21300094: Male Base - Light_47
+    21300096: Male Base - Light_48
+    21300098: Male Base - Light_49
+    21300100: Male Base - Light_50
+    21300102: Male Base - Light_51
+    21300104: Male Base - Light_52
+    21300106: Male Base - Light_53
+    21300108: Male Base - Light_54
+    21300110: Male Base - Light_55
+    21300112: Male Base - Light_56
+    21300114: Male Base - Light_57
+    21300116: Male Base - Light_58
+    21300118: Male Base - Light_59
+    21300120: Male Base - Light_60
+    21300122: Male Base - Light_61
+    21300124: Male Base - Light_62
+    21300126: Male Base - Light_63
+    21300128: Male Base - Light_64
+    21300130: Male Base - Light_65
+    21300132: Male Base - Light_66
+    21300134: Male Base - Light_67
+    21300136: Male Base - Light_68
+    21300138: Male Base - Light_69
+    21300140: Male Base - Light_70
+    21300142: Male Base - Light_71
+    21300144: Male Base - Light_72
+    21300146: Male Base - Light_73
+    21300148: Male Base - Light_74
+    21300150: Male Base - Light_75
+    21300152: Male Base - Light_76
+    21300154: Male Base - Light_77
+    21300156: Male Base - Light_78
+    21300158: Male Base - Light_79
+    21300160: Male Base - Light_80
+    21300162: Male Base - Light_81
+    21300164: Male Base - Light_82
+    21300166: Male Base - Light_83
+    21300168: Male Base - Light_84
+    21300170: Male Base - Light_85
+    21300172: Male Base - Light_86
+    21300174: Male Base - Light_87
+    21300176: Male Base - Light_88
+    21300178: Male Base - Light_89
+    21300180: Male Base - Light_90
+    21300182: Male Base - Light_91
+    21300184: Male Base - Light_92
+    21300186: Male Base - Light_93
+    21300188: Male Base - Light_94
+    21300190: Male Base - Light_95
+    21300192: Male Base - Light_96
+    21300194: Male Base - Light_97
+    21300196: Male Base - Light_98
+    21300198: Male Base - Light_99
+    21300200: Male Base - Light_100
+    21300202: Male Base - Light_101
+    21300204: Male Base - Light_102
+    21300206: Male Base - Light_103
+    21300208: Male Base - Light_104
+    21300210: Male Base - Light_105
+    21300212: Male Base - Light_106
+    21300214: Male Base - Light_107
+    21300216: Male Base - Light_108
+    21300218: Male Base - Light_109
+    21300220: Male Base - Light_110
+    21300222: Male Base - Light_111
+    21300224: Male Base - Light_112
+    21300226: Male Base - Light_113
+    21300228: Male Base - Light_114
+    21300230: Male Base - Light_115
+    21300232: Male Base - Light_116
+    21300234: Male Base - Light_117
+    21300236: Male Base - Light_118
+    21300238: Male Base - Light_119
+    21300240: Male Base - Light_120
+    21300242: Male Base - Light_121
+    21300244: Male Base - Light_122
+    21300246: Male Base - Light_123
+    21300248: Male Base - Light_124
+    21300250: Male Base - Light_125
+    21300252: Male Base - Light_126
+    21300254: Male Base - Light_127
+    21300256: Male Base - Light_128
+    21300258: Male Base - Light_129
+    21300260: Male Base - Light_130
+    21300262: Male Base - Light_131
+    21300264: Male Base - Light_132
+    21300266: Male Base - Light_133
+    21300268: Male Base - Light_134
+    21300270: Male Base - Light_135
+    21300272: Male Base - Light_136
+    21300274: Male Base - Light_137
+    21300276: Male Base - Light_138
+    21300278: Male Base - Light_139
+    21300280: Male Base - Light_140
+    21300282: Male Base - Light_141
+    21300284: Male Base - Light_142
+    21300286: Male Base - Light_143
+    21300288: Male Base - Light_144
+    21300290: Male Base - Light_145
+    21300292: Male Base - Light_146
+    21300294: Male Base - Light_147
+    21300296: Male Base - Light_148
+    21300298: Male Base - Light_149
+    21300300: Male Base - Light_150
+    21300302: Male Base - Light_151
+    21300304: Male Base - Light_152
+    21300306: Male Base - Light_153
+    21300308: Male Base - Light_154
+    21300310: Male Base - Light_155
+    21300312: Male Base - Light_156
+    21300314: Male Base - Light_157
+    21300316: Male Base - Light_158
+    21300318: Male Base - Light_159
+    21300320: Male Base - Light_160
+    21300322: Male Base - Light_161
+    21300324: Male Base - Light_162
+    21300326: Male Base - Light_163
+    21300328: Male Base - Light_164
+    21300330: Male Base - Light_165
+    21300332: Male Base - Light_166
+    21300334: Male Base - Light_167
+    21300336: Male Base - Light_168
+    21300338: Male Base - Light_169
+    21300340: Male Base - Light_170
+    21300342: Male Base - Light_171
+    21300344: Male Base - Light_172
+    21300346: Male Base - Light_173
+    21300348: Male Base - Light_174
+    21300350: Male Base - Light_175
+    21300352: Male Base - Light_176
+    21300354: Male Base - Light_177
+    21300356: Male Base - Light_178
+    21300358: Male Base - Light_179
+    21300360: Male Base - Light_180
+    21300362: Male Base - Light_181
+    21300364: Male Base - Light_182
+    21300366: Male Base - Light_183
+    21300368: Male Base - Light_184
+    21300370: Male Base - Light_185
+    21300372: Male Base - Light_186
+    21300374: Male Base - Light_187
+    21300376: Male Base - Light_188
+    21300378: Male Base - Light_189
+    21300380: Male Base - Light_190
+    21300382: Male Base - Light_191
+    21300384: Male Base - Light_192
+    21300386: Male Base - Light_193
+    21300388: Male Base - Light_194
+    21300390: Male Base - Light_195
+    21300392: Male Base - Light_196
+    21300394: Male Base - Light_197
+    21300396: Male Base - Light_198
+    21300398: Male Base - Light_199
+    21300400: Male Base - Light_200
+    21300402: Male Base - Light_201
+    21300404: Male Base - Light_202
+    21300406: Male Base - Light_203
+    21300408: Male Base - Light_204
+    21300410: Male Base - Light_205
+    21300412: Male Base - Light_206
+    21300414: Male Base - Light_207
+    21300416: Male Base - Light_208
+    21300418: Male Base - Light_209
+    21300420: Male Base - Light_210
+    21300422: Male Base - Light_211
+    21300424: Male Base - Light_212
+    21300426: Male Base - Light_213
+    21300428: Male Base - Light_214
+    21300430: Male Base - Light_215
+    21300432: Male Base - Light_216
+    21300434: Male Base - Light_217
+    21300436: Male Base - Light_218
+    21300438: Male Base - Light_219
+    21300440: Male Base - Light_220
+    21300442: Male Base - Light_221
+    21300444: Male Base - Light_222
+    21300446: Male Base - Light_223
+    21300448: Male Base - Light_224
+    21300450: Male Base - Light_225
+    21300452: Male Base - Light_226
+    21300454: Male Base - Light_227
+    21300456: Male Base - Light_228
+    21300458: Male Base - Light_229
+    21300460: Male Base - Light_230
+    21300462: Male Base - Light_231
+    21300464: Male Base - Light_232
+    21300466: Male Base - Light_233
+    21300468: Male Base - Light_234
+    21300470: Male Base - Light_235
+    21300472: Male Base - Light_236
+    21300474: Male Base - Light_237
+    21300476: Male Base - Light_238
+    21300478: Male Base - Light_239
+    21300480: Male Base - Light_240
+    21300482: Male Base - Light_241
+    21300484: Male Base - Light_242
+    21300486: Male Base - Light_243
+    21300488: Male Base - Light_244
+    21300490: Male Base - Light_245
+    21300492: Male Base - Light_246
+    21300494: Male Base - Light_247
+    21300496: Male Base - Light_248
+    21300498: Male Base - Light_249
+    21300500: Male Base - Light_250
+    21300502: Male Base - Light_251
+    21300504: Male Base - Light_252
+    21300506: Male Base - Light_253
+    21300508: Male Base - Light_254
+    21300510: Male Base - Light_255
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Male Base - Light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 18}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 10}
+    - name: Male Base - Light_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: -11, y: 6}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 8}
+        - {x: 11, y: 16}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 13}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 14}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -7, y: 2}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 29}
+    - name: Male Base - Light_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 1}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 3}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 14}
+        - {x: 11, y: 31}
+    - name: Male Base - Light_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 5}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 6}
+    - name: Male Base - Light_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 28}
+        - {x: 6, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 6}
+        - {x: 10, y: 15}
+        - {x: 11, y: 22}
+    - name: Male Base - Light_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 5}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 25}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 9}
+        - {x: -10, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 5}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 2}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+    - name: Male Base - Light_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 30}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 27}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 6}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 27}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 15}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 30}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 17}
+        - {x: -8, y: 1}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 26}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 11}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 27}
+        - {x: 9, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 7}
+        - {x: 7, y: 9}
+        - {x: 11, y: 15}
+    - name: Male Base - Light_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 28}
+        - {x: 6, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 14}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 6}
+        - {x: 10, y: 15}
+        - {x: 11, y: 22}
+    - name: Male Base - Light_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 28}
+        - {x: 6, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 6}
+        - {x: 10, y: 15}
+        - {x: 11, y: 22}
+    - name: Male Base - Light_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 20}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 28}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 2}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 19}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 31}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 10}
+        - {x: -11, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 24}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 13}
+        - {x: -10, y: 2}
+        - {x: -8, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 26}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -9, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 25}
+    - name: Male Base - Light_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 1}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 25}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 4}
+        - {x: -4, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 6}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 30}
+        - {x: 10, y: 31}
+    - name: Male Base - Light_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 16}
+        - {x: -10, y: 0}
+        - {x: 2, y: 0}
+        - {x: 7, y: 1}
+        - {x: 11, y: 10}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 17}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 12}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 22}
+        - {x: -10, y: 15}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 31}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 17}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 3}
+        - {x: -5, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 29}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 9, y: 6}
+        - {x: 11, y: 11}
+        - {x: 11, y: 26}
+    - name: Male Base - Light_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 11}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 28}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 17}
+        - {x: -11, y: 13}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 26}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 13}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 16}
+        - {x: 11, y: 30}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 19}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 8}
+        - {x: -11, y: 1}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 25}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 11}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 5}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+        - {x: -12, y: 32}
+    - name: Male Base - Light_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 8}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 12, y: 14}
+        - {x: 12, y: 27}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 3}
+        - {x: -8, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 8}
+        - {x: 12, y: 31}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -16, y: 4}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 15}
+        - {x: 12, y: 18}
+    - name: Male Base - Light_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -13, y: 26}
+        - {x: -13, y: 9}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+    - name: Male Base - Light_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 9}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 3}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 9}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 3}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 14}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 18}
+        - {x: -8, y: 2}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 30}
+        - {x: -12, y: 27}
+        - {x: -12, y: 7}
+        - {x: -8, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 30}
+    - name: Male Base - Light_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 10, y: 6}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 20}
+        - {x: -7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 10, y: 6}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32}
+        - {x: -11, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 9}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+    - name: Male Base - Light_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 14}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 25}
+        - {x: -12, y: 11}
+        - {x: -11, y: 3}
+        - {x: -5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+    - name: Male Base - Light_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 25}
+        - {x: -12, y: 11}
+        - {x: -11, y: 3}
+        - {x: -5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+    - name: Male Base - Light_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 11}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 26}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 15}
+        - {x: -3, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 30}
+        - {x: -12, y: 26}
+        - {x: -12, y: 11}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 26}
+        - {x: 8, y: 30}
+    - name: Male Base - Light_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 14}
+        - {x: 11, y: 31}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 27}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 5}
+        - {x: 12, y: 24}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 5}
+        - {x: 12, y: 24}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 7}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+    - name: Male Base - Light_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -5, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+    - name: Male Base - Light_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 27}
+        - {x: 9, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 7}
+        - {x: 7, y: 9}
+        - {x: 11, y: 15}
+    - name: Male Base - Light_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 20}
+        - {x: -11, y: 17}
+        - {x: -5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 28}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 19}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 5}
+        - {x: -11, y: 1}
+        - {x: -9, y: 0}
+        - {x: 1, y: 0}
+        - {x: 6, y: 7}
+        - {x: 6, y: 9}
+        - {x: 10, y: 16}
+    - name: Male Base - Light_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 30}
+        - {x: -12, y: 24}
+        - {x: -12, y: 5}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 28}
+        - {x: 3, y: 30}
+    - name: Male Base - Light_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 10}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 19}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 27}
+        - {x: 5, y: 32}
+    - name: Male Base - Light_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -13, y: 27}
+        - {x: -13, y: 5}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -13, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 31}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 20}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 31}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 13}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 30}
+    - name: Male Base - Light_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 27}
+        - {x: -11, y: 12}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 29}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 12}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 16}
+        - {x: 11, y: 31}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -13, y: 6}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 9}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 9}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 13}
+        - {x: -8, y: 0}
+        - {x: 4, y: 0}
+        - {x: 6, y: 1}
+        - {x: 11, y: 17}
+        - {x: 11, y: 26}
+    - name: Male Base - Light_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 29}
+        - {x: -11, y: 29}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 24}
+        - {x: 10, y: 26}
+    - name: Male Base - Light_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 5}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 10}
+        - {x: 12, y: 28}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 16}
+        - {x: 11, y: 29}
+    - name: Male Base - Light_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 1}
+        - {x: 11, y: 23}
+        - {x: 11, y: 27}
+    - name: Male Base - Light_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 12}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 30}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 12}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 8}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+    - name: Male Base - Light_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 12}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 5}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 8}
+        - {x: 12, y: 29}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 27}
+    - name: Male Base - Light_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 7}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 18}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 10}
+    - name: Male Base - Light_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: -11, y: 6}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 8}
+        - {x: 11, y: 16}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 13}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 14}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 8}
+        - {x: -11, y: 0}
+        - {x: 4, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -7, y: 2}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 29}
+    - name: Male Base - Light_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 1}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 3}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 14}
+        - {x: 11, y: 31}
+    - name: Male Base - Light_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 5}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 6}
+    - name: Male Base - Light_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 28}
+        - {x: 6, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 6}
+        - {x: 10, y: 15}
+        - {x: 11, y: 22}
+    - name: Male Base - Light_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 5}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 25}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 9}
+        - {x: -10, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 5}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 2}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+    - name: Male Base - Light_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 30}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 27}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 6}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 27}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 15}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 30}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 17}
+        - {x: -8, y: 1}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 26}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 11}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 27}
+        - {x: 9, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 7}
+        - {x: 7, y: 9}
+        - {x: 11, y: 15}
+    - name: Male Base - Light_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 28}
+        - {x: 6, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 14}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 6}
+        - {x: 10, y: 15}
+        - {x: 11, y: 22}
+    - name: Male Base - Light_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 28}
+        - {x: 6, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 6}
+        - {x: 10, y: 15}
+        - {x: 11, y: 22}
+    - name: Male Base - Light_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 20}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 28}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 2}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 19}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 31}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 10}
+        - {x: -11, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 24}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 13}
+        - {x: -10, y: 2}
+        - {x: -8, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 26}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -9, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 25}
+    - name: Male Base - Light_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 1}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 25}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 4}
+        - {x: -4, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 6}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 30}
+        - {x: 10, y: 31}
+    - name: Male Base - Light_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 16}
+        - {x: -10, y: 0}
+        - {x: 2, y: 0}
+        - {x: 7, y: 1}
+        - {x: 11, y: 10}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 17}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 12}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 22}
+        - {x: -10, y: 15}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 31}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 17}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 3}
+        - {x: -5, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 29}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 9, y: 6}
+        - {x: 11, y: 11}
+        - {x: 11, y: 26}
+    - name: Male Base - Light_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 11}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 28}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 17}
+        - {x: -11, y: 13}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 26}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 13}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 16}
+        - {x: 11, y: 30}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 19}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 8}
+        - {x: -11, y: 1}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 25}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 11}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 5}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+        - {x: -12, y: 32}
+    - name: Male Base - Light_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 8}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 12, y: 14}
+        - {x: 12, y: 27}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 3}
+        - {x: -8, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 8}
+        - {x: 12, y: 31}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 18}
+        - {x: -16, y: 4}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 15}
+        - {x: 12, y: 18}
+    - name: Male Base - Light_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -13, y: 26}
+        - {x: -13, y: 9}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+    - name: Male Base - Light_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 9}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 3}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 9}
+        - {x: -11, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 3}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 14}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 18}
+        - {x: -8, y: 2}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 30}
+        - {x: -12, y: 27}
+        - {x: -12, y: 7}
+        - {x: -8, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 30}
+    - name: Male Base - Light_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 10, y: 6}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 20}
+        - {x: -7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 10, y: 6}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 32}
+        - {x: -11, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 9}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+    - name: Male Base - Light_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 14}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 25}
+        - {x: -12, y: 11}
+        - {x: -11, y: 3}
+        - {x: -5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+    - name: Male Base - Light_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 25}
+        - {x: -12, y: 11}
+        - {x: -11, y: 3}
+        - {x: -5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+    - name: Male Base - Light_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 11}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 26}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 15}
+        - {x: -3, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 30}
+        - {x: -12, y: 26}
+        - {x: -12, y: 11}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 26}
+        - {x: 8, y: 30}
+    - name: Male Base - Light_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 31}
+        - {x: -12, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 14}
+        - {x: 11, y: 31}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 27}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 5}
+        - {x: 12, y: 24}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 5}
+        - {x: 12, y: 24}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 7}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+    - name: Male Base - Light_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -5, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 2}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+    - name: Male Base - Light_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 27}
+        - {x: 9, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 7}
+        - {x: 7, y: 9}
+        - {x: 11, y: 15}
+    - name: Male Base - Light_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 20}
+        - {x: -11, y: 17}
+        - {x: -5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 7}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 28}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+    - name: Male Base - Light_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 19}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: 11, y: 25}
+        - {x: 6, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 5}
+        - {x: -11, y: 1}
+        - {x: -9, y: 0}
+        - {x: 1, y: 0}
+        - {x: 6, y: 7}
+        - {x: 6, y: 9}
+        - {x: 10, y: 16}
+    - name: Male Base - Light_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 30}
+        - {x: -12, y: 24}
+        - {x: -12, y: 5}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 28}
+        - {x: 3, y: 30}
+    - name: Male Base - Light_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 10}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 4}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 19}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 13}
+        - {x: 11, y: 27}
+        - {x: 5, y: 32}
+    - name: Male Base - Light_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -13, y: 27}
+        - {x: -13, y: 5}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -13, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 31}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 20}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 31}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 13}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 30}
+    - name: Male Base - Light_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 27}
+        - {x: -11, y: 12}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 11}
+        - {x: 11, y: 29}
+        - {x: 7, y: 32}
+    - name: Male Base - Light_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+        - {x: -10, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 12}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 10}
+        - {x: 10, y: 17}
+    - name: Male Base - Light_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 21}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 11, y: 16}
+        - {x: 11, y: 31}
+        - {x: 8, y: 32}
+    - name: Male Base - Light_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -13, y: 6}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 9}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 9}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 13}
+        - {x: -8, y: 0}
+        - {x: 4, y: 0}
+        - {x: 6, y: 1}
+        - {x: 11, y: 17}
+        - {x: 11, y: 26}
+    - name: Male Base - Light_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 29}
+        - {x: 10, y: 32}
+    - name: Male Base - Light_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 29}
+        - {x: -11, y: 29}
+        - {x: -12, y: 27}
+        - {x: -12, y: 12}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 8}
+        - {x: 11, y: 24}
+        - {x: 10, y: 26}
+    - name: Male Base - Light_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 5}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 10}
+        - {x: 12, y: 28}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 1}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 16}
+        - {x: 11, y: 29}
+    - name: Male Base - Light_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 4}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 1}
+        - {x: 11, y: 23}
+        - {x: 11, y: 27}
+    - name: Male Base - Light_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 12}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 12}
+        - {x: 11, y: 30}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 12}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 8}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+    - name: Male Base - Light_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 12}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 9}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+    - name: Male Base - Light_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 32}
+        - {x: -11, y: 5}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 8}
+        - {x: 12, y: 29}
+        - {x: 11, y: 32}
+    - name: Male Base - Light_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -12, y: 32}
+        - {x: -12, y: 10}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 27}
+    - name: Male Base - Light_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 7}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 5}
+        - {x: 11, y: 31}
+        - {x: 9, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

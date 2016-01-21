@@ -13,6 +13,11 @@ public class Family : MonoBehaviour {
 		set {
 			// Check if greater than max *before* the Clamp call just in case of floating-point precision errors.
 			if (value >= maxHunger) {
+				FamilyMember[] familyMembers = GetComponentsInChildren<FamilyMember>();
+				for (int i = 0; i < familyMembers.Length; ++i) {
+					familyMembers[i].State = FamilyMemberState.Dead;
+				}
+
 				GameManager.Instance.OnGameOver("Your family has starved to death.");
 			}
 
@@ -27,6 +32,11 @@ public class Family : MonoBehaviour {
 		set {
 			// Check if greater than max *before* the Clamp call just in case of floating-point precision errors.
 			if (value >= maxIllness) {
+				FamilyMember[] familyMembers = GetComponentsInChildren<FamilyMember>();
+				for (int i = 0; i < familyMembers.Length; ++i) {
+					familyMembers[i].State = FamilyMemberState.Dead;
+				}
+
 				GameManager.Instance.OnGameOver("Your family has gotten too sick and died.");
 			}
 

@@ -5,7 +5,7 @@ AnimationClip:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Male - Light - Idle Down
+  m_Name: Female - Light - Dead
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -19,7 +19,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: d9c4ca82972af8c4babf8b2da8b101c2, type: 3}
+      value: {fileID: 21300126, guid: c63a5295d6e0f4746bff303d9a60c913, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -38,7 +38,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: d9c4ca82972af8c4babf8b2da8b101c2, type: 3}
+    - {fileID: 21300126, guid: c63a5295d6e0f4746bff303d9a60c913, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

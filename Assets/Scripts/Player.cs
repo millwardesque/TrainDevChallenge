@@ -8,6 +8,14 @@ public enum PlayerState {
 	Dead
 };
 
+public enum MovementDirection {
+	None,
+	Up,
+	Down,
+	Left,
+	Right
+};
+
 [RequireComponent (typeof(Rigidbody2D))]
 public class Player : MonoBehaviour {
 	public float maxSpeed = 2f;
@@ -19,6 +27,37 @@ public class Player : MonoBehaviour {
 	float deathRemaining = 0f;
 	string deathReason;
 
+	MovementDirection m_direction;
+	MovementDirection Direction {
+		get { return m_direction; }
+		set {
+			MovementDirection oldDirection = m_direction;
+			m_direction = value;
+
+			if (oldDirection != m_direction) {
+				switch (m_direction) {
+				case MovementDirection.Left:
+					bodyAnimator.SetTrigger("Walk Left");
+					break;
+				case MovementDirection.Right:
+					bodyAnimator.SetTrigger("Walk Right");
+					break;
+				case MovementDirection.Up:
+					bodyAnimator.SetTrigger("Walk Up");
+					break;
+				case MovementDirection.Down:
+					bodyAnimator.SetTrigger("Walk Down");
+					break;
+				case MovementDirection.None:
+					bodyAnimator.SetTrigger("Stop");
+					break;
+				default:
+					break;
+				}
+			}
+		}
+	}
+
 	PlayerState m_state;
 	public PlayerState State {
 		get { return m_state; }
@@ -29,7 +68,14 @@ public class Player : MonoBehaviour {
 
 			if (m_state == PlayerState.Standing) {
 				rb.velocity = Vector2.zero;
-				bodyAnimator.SetTrigger("Walk Down");
+				Direction = MovementDirection.None;
+
+				if (oldState != PlayerState.Walking) {
+					bodyAnimator.SetTrigger("Idle Down");
+				}
+			}
+			else if (m_state == PlayerState.Walking) {
+				Direction = MovementDirection.None;
 			}
 			else if (m_state == PlayerState.Stunned) {
 				rb.velocity = Vector2.zero;
@@ -55,6 +101,7 @@ public class Player : MonoBehaviour {
 	void Start () {
 		bodyAnimator = GetComponentInChildren<Animator>();
 		State = PlayerState.Standing;
+		Direction = MovementDirection.None;
 	}
 
 	void LateUpdate() {
@@ -103,18 +150,18 @@ public class Player : MonoBehaviour {
 
 		if (Mathf.Abs(x) >= Mathf.Abs(y) && Mathf.Abs(x) > minAnimationSpeed) {
 			if (x > minAnimationSpeed) {
-				bodyAnimator.SetTrigger("Walk Right");
+				Direction = MovementDirection.Right;
 			}
 			else if (x < -minAnimationSpeed) {
-				bodyAnimator.SetTrigger("Walk Left");
+				Direction = MovementDirection.Left;
 			}
 		}
 		else if (Mathf.Abs(x) < Mathf.Abs(y) && Mathf.Abs(y) > minAnimationSpeed) {
 			if (y < -minAnimationSpeed) {
-				bodyAnimator.SetTrigger("Walk Down");
+				Direction = MovementDirection.Down;
 			}
 			else if (y > minAnimationSpeed) {
-				bodyAnimator.SetTrigger("Walk Up");
+				Direction = MovementDirection.Up;
 			}
 		}
 		else {
