@@ -5,14 +5,19 @@ public class TimeOfDay : MonoBehaviour {
 	public Color ambientDayColour = new Color(0.8f, 0.9f, 1f);
 	public Color ambientNightColour = new Color(0.5f, 0.1f, 0.5f);
 	public float secondsPerGameHour = 1f;
+	public float startingGameHour = 3f;
 
-	float m_gameHour = 3f;
+	float m_gameHour;
 	public float GameHour {
 		get { return m_gameHour; }
 		set {
 			m_gameHour = value;
 			m_gameHour = m_gameHour % 24f;
 		}
+	}
+
+	void Start() {
+		GameHour = startingGameHour;
 	}
 	
 	// Update is called once per frame

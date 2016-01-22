@@ -5,6 +5,7 @@ using System.Collections;
 public class GUIManager : MonoBehaviour {
 	public Text hungerLabel;
 	public Text illnessLabel;
+	public Text happinessLabel;
 	public Text remainingCollectiblesLabel;
 	public Text itemsInSackLabel;
 	public GameObject youWinPanel;
@@ -14,6 +15,7 @@ public class GUIManager : MonoBehaviour {
 	void Awake() {
 		Debug.Assert(hungerLabel != null, "GUIManager: Hunger label is null");
 		Debug.Assert(illnessLabel != null, "GUIManager: Illness label is null");
+		Debug.Assert(happinessLabel != null, "GUIManager: Happiness label is null");
 		Debug.Assert(remainingCollectiblesLabel != null, "GUIManager: Remaining Collectibles label is null");
 		Debug.Assert(itemsInSackLabel != null, "GUIManager: Items-in-sack label is null");
 		Debug.Assert(youWinPanel != null, "GUIManager: You-Win panel is null");
@@ -21,20 +23,44 @@ public class GUIManager : MonoBehaviour {
 		Debug.Assert(gameOverReason != null, "GUIManager: Game-Over reason is null");
 	}
 
+	void Start() {
+		GameManager.Instance.Messenger.AddListener("Player Wins", OnPlayerWins);
+		GameManager.Instance.Messenger.AddListener("Game Over", OnGameOver);
+		GameManager.Instance.Messenger.AddListener("Collectible Spawned", OnCollectibleCountChanged);
+		GameManager.Instance.Messenger.AddListener("Collectible Dropped Off", OnCollectibleCountChanged);
+		GameManager.Instance.Messenger.AddListener("Family Hunger Changed", OnHungerChanged);
+		GameManager.Instance.Messenger.AddListener("Family Happiness Changed", OnHappinessChanged);
+		GameManager.Instance.Messenger.AddListener("Family Illness Changed", OnIllnessChanged);
+	}
+
 	public void OnHungerUpdate(int hunger) {
-		hungerLabel.text = string.Format("Family Hunger: {0}%", hunger);
+		if (hungerLabel != null) {
+			hungerLabel.text = string.Format("Family Hunger: {0}%", hunger);
+		}
 	}
 
 	public void OnIllnessUpdate(int illness) {
-		illnessLabel.text = string.Format("Family Illness: {0}%", illness);
+		if (illnessLabel != null) {
+			illnessLabel.text = string.Format("Family Illness: {0}%", illness);
+		}
 	}
 
-	public void OnCollectibleUpdate(int collectiblesRemaining) {
-		remainingCollectiblesLabel.text = string.Format("Items Remaining: {0}", collectiblesRemaining);
+	public void OnHappinessUpdate(int happiness) {
+		if (happinessLabel) {
+			happinessLabel.text = string.Format("Family Happiness: {0}%", happiness);
+		}
+	}
+
+	public void UpdateCollectibleCounter(int collectiblesRemaining) {
+		if (remainingCollectiblesLabel != null) {
+			remainingCollectiblesLabel.text = string.Format("Items Remaining: {0}", collectiblesRemaining);
+		}
 	}
 
 	public void OnItemsInSackUpdate(int itemsInSack) {
-		itemsInSackLabel.text = string.Format("Items in Sack: {0}", itemsInSack);
+		if (itemsInSackLabel != null) {
+			itemsInSackLabel.text = string.Format("Items in Sack: {0}", itemsInSack);
+		}
 	}
 
 	public void OnPlayAgain() {
@@ -44,19 +70,74 @@ public class GUIManager : MonoBehaviour {
 	}
 
 	public void ShowYouWin() {
-		youWinPanel.SetActive(true);
+		if (youWinPanel != null) {
+			youWinPanel.SetActive(true);
+		}
 	}
 
 	public void HideYouWin() {
-		youWinPanel.SetActive(false);
+		if (youWinPanel != null) {
+			youWinPanel.SetActive(false);
+		}
 	}
 
 	public void ShowGameOver(string reason) {
-		gameOverPanel.SetActive(true);
-		gameOverReason.text = reason;
+		if (gameOverPanel != null) {
+			gameOverPanel.SetActive(true);
+		}
+
+		if (gameOverReason != null) {
+			gameOverReason.text = reason;
+		}
 	}
 
 	public void HideGameOver() {
-		gameOverPanel.SetActive(false);
+		if (gameOverPanel != null) {
+			gameOverPanel.SetActive(false);
+		}
+	}
+
+	public void OnPlayerWins(Message message) {
+		ShowYouWin();
+	}
+
+	public void OnGameOver(Message message) {
+		string reason = (message.data != null ? (string)message.data : "");
+		ShowGameOver(reason);
+	}
+
+	public void OnCollectibleCountChanged(Message message) {
+		Debug.Log("Count changed!");
+
+		Collectible[] collectibles = FindObjectsOfType<Collectible>();
+		int collectiblesRemaining = collectibles.Length;
+		for (int i = 0; i < collectibles.Length; ++i) {
+			if (collectibles[i].gameObject == null) {
+				collectiblesRemaining--;
+			}
+		}
+
+		UpdateCollectibleCounter(collectiblesRemaining);
+	}
+
+	public void OnHungerChanged(Message message) {
+		Debug.Assert(message.data != null, "OnHungerChanged@GUIManager: Message data is null");
+
+		int hunger = (int)message.data;
+		OnHungerUpdate(hunger);
+	}
+
+	public void OnHappinessChanged(Message message) {
+		Debug.Assert(message.data != null, "OnHappinessChanged@GUIManager: Message data is null");
+
+		int happiness = (int)message.data;
+		OnHappinessUpdate(happiness);
+	}
+
+	public void OnIllnessChanged(Message message) {
+		Debug.Assert(message.data != null, "OnIllnessChanged@GUIManager: Message data is null");
+
+		int illness = (int)message.data;
+		OnIllnessUpdate(illness);
 	}
 }

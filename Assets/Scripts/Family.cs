@@ -4,13 +4,19 @@ using System.Collections;
 public class Family : MonoBehaviour {
 	public float maxHunger = 100f;
 	public float maxIllness = 100f;
+	public float maxHappiness = 100f;
 	public float hungerIncreaseRate = 1f;
 	public float illnessIncreaseRate = 1f;
+	public float happinessIncreaseRate = 1f;
 
 	float m_hunger;
 	public float Hunger {
 		get { return m_hunger; }
 		set {
+			if (Mathf.Abs(value - m_hunger) <= float.Epsilon) {
+				return;
+			}
+
 			// Check if greater than max *before* the Clamp call just in case of floating-point precision errors.
 			if (value >= maxHunger) {
 				FamilyMember[] familyMembers = GetComponentsInChildren<FamilyMember>();
@@ -22,7 +28,7 @@ public class Family : MonoBehaviour {
 			}
 
 			m_hunger = Mathf.Clamp(value, 0, maxHunger);
-			GameManager.Instance.GetGUIManager().OnHungerUpdate(Mathf.FloorToInt(m_hunger));
+			GameManager.Instance.Messenger.SendMessage(this, "Family Hunger Changed", Mathf.FloorToInt(m_hunger));
 		}
 	}
 
@@ -30,6 +36,10 @@ public class Family : MonoBehaviour {
 	public float Illness {
 		get { return m_illness; }
 		set {
+			if (Mathf.Abs(value - m_illness) <= float.Epsilon) {
+				return;
+			}
+
 			// Check if greater than max *before* the Clamp call just in case of floating-point precision errors.
 			if (value >= maxIllness) {
 				FamilyMember[] familyMembers = GetComponentsInChildren<FamilyMember>();
@@ -41,7 +51,25 @@ public class Family : MonoBehaviour {
 			}
 
 			m_illness = Mathf.Clamp(value, 0, maxIllness);
-			GameManager.Instance.GetGUIManager().OnIllnessUpdate(Mathf.FloorToInt(m_illness));
+			GameManager.Instance.Messenger.SendMessage(this, "Family Illness Changed", Mathf.FloorToInt(m_illness));
+		}
+	}
+
+	float m_happiness;
+	public float Happiness {
+		get { return m_happiness; }
+		set {
+			if (Mathf.Abs(value - m_happiness) <= float.Epsilon) {
+				return;
+			}
+
+			// Check if greater than max *before* the Clamp call just in case of floating-point precision errors.
+			if (value >= maxHappiness) {
+				GameManager.Instance.OnPlayerWins();
+			}
+
+			m_happiness = Mathf.Clamp(value, 0, maxHappiness);
+			GameManager.Instance.Messenger.SendMessage(this, "Family Happiness Changed", Mathf.FloorToInt(m_happiness));
 		}
 	}
 	
@@ -53,5 +81,12 @@ public class Family : MonoBehaviour {
 
 		Hunger += hungerIncreaseRate * Time.deltaTime;
 		Illness += illnessIncreaseRate * Time.deltaTime;
+		Happiness += happinessIncreaseRate * Time.deltaTime;
+	}
+
+	public void AddCollectible(Collectible collectible) {
+		Hunger += collectible.hungerAdjustment;
+		Illness += collectible.illnessAdjustment;
+		Happiness += collectible.happinessAdjustment;
 	}
 }

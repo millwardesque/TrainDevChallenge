@@ -27,7 +27,6 @@ public class Player : MonoBehaviour {
 		set {
 			PlayerState oldState = m_state;
 			m_state = value;
-			Debug.Log(string.Format("Player state: {0}", m_state));
 
 			if (m_state == PlayerState.Standing) {
 				rb.velocity = Vector2.zero;
@@ -179,14 +178,16 @@ public class Player : MonoBehaviour {
 			bool hasCollectedAll = (collectiblesRemaining.Length == collectibles.Length);
 
 			for (int i = 0; i < collectibles.Length; ++i) {
+				GameManager.Instance.GetFamily().AddCollectible(collectibles[i]);
+
 				collectibles[i].transform.SetParent(null);
 				GameObject.Destroy(collectibles[i].gameObject);
 
-				GameManager.Instance.GetFamily().Hunger += collectibles[i].hungerAdjustment;
-				GameManager.Instance.GetFamily().Illness += collectibles[i].illnessAdjustment;
+				GameManager.Instance.Messenger.SendMessage(this, "Collectible Dropped Off");
 			}
-			GameManager.Instance.GetGUIManager().OnCollectibleUpdate(collectiblesRemaining.Length - collectibles.Length);
 
+			GameManager.Instance.GetGUIManager().UpdateCollectibleCounter(collectiblesRemaining.Length - collectibles.Length);
+				
 			UpdateSackContents();
 
 			if (hasCollectedAll) {

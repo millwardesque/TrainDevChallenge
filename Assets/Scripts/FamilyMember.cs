@@ -13,7 +13,6 @@ public class FamilyMember : MonoBehaviour {
 		set {
 			FamilyMemberState oldState = m_state;
 			m_state = value;
-			Debug.Log(string.Format("Family Member state: {0}", m_state));
 
 			if (m_state == FamilyMemberState.Standing) {
 				bodyAnimator.SetTrigger("Idle Down");
