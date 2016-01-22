@@ -8,14 +8,6 @@ public enum PlayerState {
 	Dead
 };
 
-public enum MovementDirection {
-	None,
-	Up,
-	Down,
-	Left,
-	Right
-};
-
 [RequireComponent (typeof(Rigidbody2D))]
 public class Player : MonoBehaviour {
 	public float maxSpeed = 2f;
@@ -27,36 +19,7 @@ public class Player : MonoBehaviour {
 	float deathRemaining = 0f;
 	string deathReason;
 
-	MovementDirection m_direction;
-	MovementDirection Direction {
-		get { return m_direction; }
-		set {
-			MovementDirection oldDirection = m_direction;
-			m_direction = value;
-
-			if (oldDirection != m_direction) {
-				switch (m_direction) {
-				case MovementDirection.Left:
-					bodyAnimator.SetTrigger("Walk Left");
-					break;
-				case MovementDirection.Right:
-					bodyAnimator.SetTrigger("Walk Right");
-					break;
-				case MovementDirection.Up:
-					bodyAnimator.SetTrigger("Walk Up");
-					break;
-				case MovementDirection.Down:
-					bodyAnimator.SetTrigger("Walk Down");
-					break;
-				case MovementDirection.None:
-					bodyAnimator.SetTrigger("Stop");
-					break;
-				default:
-					break;
-				}
-			}
-		}
-	}
+	ActorDirection m_direction;
 
 	PlayerState m_state;
 	public PlayerState State {
@@ -68,14 +31,13 @@ public class Player : MonoBehaviour {
 
 			if (m_state == PlayerState.Standing) {
 				rb.velocity = Vector2.zero;
-				Direction = MovementDirection.None;
+				m_direction.Direction = MovementDirection.None;
 
 				if (oldState != PlayerState.Walking) {
 					bodyAnimator.SetTrigger("Idle Down");
 				}
 			}
 			else if (m_state == PlayerState.Walking) {
-				Direction = MovementDirection.None;
 			}
 			else if (m_state == PlayerState.Stunned) {
 				rb.velocity = Vector2.zero;
@@ -93,6 +55,7 @@ public class Player : MonoBehaviour {
 	Animator bodyAnimator;
 
 	void Awake() {
+		m_direction = new ActorDirection(gameObject);
 		rb = GetComponent<Rigidbody2D>();
 		Debug.Assert(pickupSack != null, "Player doesn't have pickup-sack attached.");
 	}
@@ -101,7 +64,7 @@ public class Player : MonoBehaviour {
 	void Start () {
 		bodyAnimator = GetComponentInChildren<Animator>();
 		State = PlayerState.Standing;
-		Direction = MovementDirection.None;
+		m_direction.Direction = MovementDirection.None;
 	}
 
 	void LateUpdate() {
@@ -150,18 +113,18 @@ public class Player : MonoBehaviour {
 
 		if (Mathf.Abs(x) >= Mathf.Abs(y) && Mathf.Abs(x) > minAnimationSpeed) {
 			if (x > minAnimationSpeed) {
-				Direction = MovementDirection.Right;
+				m_direction.Direction = MovementDirection.Right;
 			}
 			else if (x < -minAnimationSpeed) {
-				Direction = MovementDirection.Left;
+				m_direction.Direction = MovementDirection.Left;
 			}
 		}
 		else if (Mathf.Abs(x) < Mathf.Abs(y) && Mathf.Abs(y) > minAnimationSpeed) {
 			if (y < -minAnimationSpeed) {
-				Direction = MovementDirection.Down;
+				m_direction.Direction = MovementDirection.Down;
 			}
 			else if (y > minAnimationSpeed) {
-				Direction = MovementDirection.Up;
+				m_direction.Direction = MovementDirection.Up;
 			}
 		}
 		else {
@@ -232,7 +195,6 @@ public class Player : MonoBehaviour {
 		}
 		else if (col.tag == "Crater") {
 			// @TODO Replace this with a non-hack
-			Debug.Log("Hidden!");
 			gameObject.layer = LayerMask.NameToLayer("In Cover");
 			GetComponentInChildren<SpriteRenderer>().sortingLayerName = "In Cover";
 			GetComponentInChildren<SpriteRenderer>().sortingOrder = 2;
@@ -243,7 +205,6 @@ public class Player : MonoBehaviour {
 	void OnTriggerExit2D(Collider2D col) {
 		if (col.tag == "Crater") {
 			// @TODO Replace this with a non-hack
-			Debug.Log("Unhidden!");
 			gameObject.layer = LayerMask.NameToLayer("Player");
 			GetComponentInChildren<SpriteRenderer>().sortingLayerName = "Actors";
 			transform.localScale = new Vector3(1f, 1f, 1f);
@@ -252,5 +213,29 @@ public class Player : MonoBehaviour {
 
 	void UpdateSackContents() {
 		GameManager.Instance.GetGUIManager().OnItemsInSackUpdate(pickupSack.GetComponentsInChildren<Collectible>().Length);
+	}
+
+	public void OnDirectionChange(DirectionChange messageObject) {
+		DirectionChange change = messageObject;
+
+		switch (change.newDirection) {
+		case MovementDirection.Left:
+			bodyAnimator.SetTrigger("Walk Left");
+			break;
+		case MovementDirection.Right:
+			bodyAnimator.SetTrigger("Walk Right");
+			break;
+		case MovementDirection.Up:
+			bodyAnimator.SetTrigger("Walk Up");
+			break;
+		case MovementDirection.Down:
+			bodyAnimator.SetTrigger("Walk Down");
+			break;
+		case MovementDirection.None:
+			bodyAnimator.SetTrigger("Stop");
+			break;
+		default:
+			break;
+		}
 	}
 }
