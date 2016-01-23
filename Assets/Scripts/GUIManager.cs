@@ -31,6 +31,7 @@ public class GUIManager : MonoBehaviour {
 		GameManager.Instance.Messenger.AddListener("Family Hunger Changed", OnHungerChanged);
 		GameManager.Instance.Messenger.AddListener("Family Happiness Changed", OnHappinessChanged);
 		GameManager.Instance.Messenger.AddListener("Family Illness Changed", OnIllnessChanged);
+		GameManager.Instance.Messenger.AddListener("Sack Updated", OnSackUpdated);
 	}
 
 	public void OnHungerUpdate(int hunger) {
@@ -107,17 +108,7 @@ public class GUIManager : MonoBehaviour {
 	}
 
 	public void OnCollectibleCountChanged(Message message) {
-		Debug.Log("Count changed!");
-
-		Collectible[] collectibles = FindObjectsOfType<Collectible>();
-		int collectiblesRemaining = collectibles.Length;
-		for (int i = 0; i < collectibles.Length; ++i) {
-			if (collectibles[i].gameObject == null) {
-				collectiblesRemaining--;
-			}
-		}
-
-		UpdateCollectibleCounter(collectiblesRemaining);
+		UpdateCollectibleCounter(Collectible.CountCollectiblesRemaining());
 	}
 
 	public void OnHungerChanged(Message message) {
@@ -139,5 +130,12 @@ public class GUIManager : MonoBehaviour {
 
 		int illness = (int)message.data;
 		OnIllnessUpdate(illness);
+	}
+
+	public void OnSackUpdated(Message message) {
+		Debug.Assert(message.data != null, "OnSackUpdated@GUIManager: Message data is null");
+
+		Collectible[] collectible = (Collectible[])message.data;
+		OnItemsInSackUpdate(collectible.Length);
 	}
 }

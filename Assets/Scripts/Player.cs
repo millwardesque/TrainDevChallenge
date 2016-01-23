@@ -179,14 +179,12 @@ public class Player : MonoBehaviour {
 
 			for (int i = 0; i < collectibles.Length; ++i) {
 				GameManager.Instance.GetFamily().AddCollectible(collectibles[i]);
-
 				collectibles[i].transform.SetParent(null);
-				GameObject.Destroy(collectibles[i].gameObject);
+				collectibles[i].OnDroppedOff();
 
 				GameManager.Instance.Messenger.SendMessage(this, "Collectible Dropped Off");
+				GameObject.Destroy(collectibles[i].gameObject);
 			}
-
-			GameManager.Instance.GetGUIManager().UpdateCollectibleCounter(collectiblesRemaining.Length - collectibles.Length);
 				
 			UpdateSackContents();
 
@@ -213,7 +211,7 @@ public class Player : MonoBehaviour {
 	}
 
 	void UpdateSackContents() {
-		GameManager.Instance.GetGUIManager().OnItemsInSackUpdate(pickupSack.GetComponentsInChildren<Collectible>().Length);
+		GameManager.Instance.Messenger.SendMessage(this, "Sack Updated", pickupSack.GetComponentsInChildren<Collectible>());
 	}
 
 	public void OnDirectionChange(DirectionChange messageObject) {
