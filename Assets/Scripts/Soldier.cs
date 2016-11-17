@@ -160,7 +160,7 @@ public class Soldier : MonoBehaviour {
 		}
 
 		// March!
-		rb.velocity = marchDirection * marchSpeed;
+		rb.velocity = marchDirection * marchSpeed * Time.fixedDeltaTime;
 	}
 
 	void FixedUpdateFiring() {

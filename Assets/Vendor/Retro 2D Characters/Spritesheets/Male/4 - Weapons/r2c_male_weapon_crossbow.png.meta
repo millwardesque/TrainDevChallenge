@@ -10,7 +10,19 @@ labels:
 - RPG
 - Spritesheet
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: r2c_male_weapon_crossbow_0
+    21300002: r2c_male_weapon_crossbow_1
+    21300004: r2c_male_weapon_crossbow_2
+    21300006: r2c_male_weapon_crossbow_3
+    21300008: r2c_male_weapon_crossbow_4
+    21300010: r2c_male_weapon_crossbow_5
+    21300012: r2c_male_weapon_crossbow_6
+    21300014: r2c_male_weapon_crossbow_7
+    21300016: r2c_male_weapon_crossbow_8
+    21300018: r2c_male_weapon_crossbow_9
+    21300020: r2c_male_weapon_crossbow_10
+    21300022: r2c_male_weapon_crossbow_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,6 +65,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 32
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings:
   - buildTarget: iPhone
@@ -72,7 +85,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 4, y: 18}
+        - {x: -2, y: 19}
+        - {x: -7, y: 15}
+        - {x: -7, y: 13}
+        - {x: -3, y: 9}
+        - {x: 4, y: 9}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_1
       rect:
         serializedVersion: 2
@@ -83,7 +105,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -7, y: 13}
+        - {x: -7, y: 10}
+        - {x: -2, y: 7}
+        - {x: 0, y: 7}
+        - {x: 2, y: 8}
+        - {x: 8, y: 10}
+        - {x: 8, y: 14}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_2
       rect:
         serializedVersion: 2
@@ -94,7 +126,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -3, y: 19}
+        - {x: -5, y: 15}
+        - {x: -5, y: 10}
+        - {x: -1, y: 9}
+        - {x: 8, y: 9}
+        - {x: 10, y: 10}
+        - {x: 12, y: 13}
+        - {x: 12, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_3
       rect:
         serializedVersion: 2
@@ -105,7 +147,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 17}
+        - {x: -4, y: 13}
+        - {x: -4, y: 8}
+        - {x: -3, y: 6}
+        - {x: 3, y: 6}
+        - {x: 12, y: 11}
+        - {x: 12, y: 15}
+        - {x: 11, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_4
       rect:
         serializedVersion: 2
@@ -116,7 +167,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 16}
+        - {x: -13, y: 14}
+        - {x: -10, y: 11}
+        - {x: -6, y: 9}
+        - {x: -2, y: 9}
+        - {x: 4, y: 11}
+        - {x: 4, y: 14}
+        - {x: 1, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_5
       rect:
         serializedVersion: 2
@@ -127,7 +188,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -13, y: 11}
+        - {x: -5, y: 6}
+        - {x: -1, y: 6}
+        - {x: 3, y: 8}
+        - {x: 3, y: 12}
+        - {x: 2, y: 15}
+        - {x: -4, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_6
       rect:
         serializedVersion: 2
@@ -138,7 +208,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 15}
+        - {x: 4, y: 18}
+        - {x: -2, y: 19}
+        - {x: -7, y: 15}
+        - {x: -7, y: 13}
+        - {x: -3, y: 9}
+        - {x: 4, y: 9}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_7
       rect:
         serializedVersion: 2
@@ -149,7 +228,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -7, y: 13}
+        - {x: -7, y: 10}
+        - {x: -2, y: 7}
+        - {x: 0, y: 7}
+        - {x: 2, y: 8}
+        - {x: 8, y: 10}
+        - {x: 8, y: 14}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_8
       rect:
         serializedVersion: 2
@@ -160,7 +249,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -3, y: 19}
+        - {x: -5, y: 15}
+        - {x: -5, y: 10}
+        - {x: -1, y: 9}
+        - {x: 8, y: 9}
+        - {x: 10, y: 10}
+        - {x: 12, y: 13}
+        - {x: 12, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_9
       rect:
         serializedVersion: 2
@@ -171,7 +270,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 17}
+        - {x: -4, y: 13}
+        - {x: -4, y: 8}
+        - {x: -3, y: 6}
+        - {x: 3, y: 6}
+        - {x: 12, y: 11}
+        - {x: 12, y: 15}
+        - {x: 11, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_10
       rect:
         serializedVersion: 2
@@ -182,7 +290,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -13, y: 16}
+        - {x: -13, y: 14}
+        - {x: -10, y: 11}
+        - {x: -6, y: 9}
+        - {x: -2, y: 9}
+        - {x: 4, y: 11}
+        - {x: 4, y: 14}
+        - {x: 1, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_weapon_crossbow_11
       rect:
         serializedVersion: 2
@@ -193,7 +311,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -13, y: 11}
+        - {x: -5, y: 6}
+        - {x: -1, y: 6}
+        - {x: 3, y: 8}
+        - {x: 3, y: 12}
+        - {x: 2, y: 15}
+        - {x: -4, y: 17}
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 

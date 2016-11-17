@@ -10,7 +10,263 @@ labels:
 - RPG
 - Spritesheet
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: r2c_male_outfit_warrior_0
+    21300002: r2c_male_outfit_warrior_1
+    21300004: r2c_male_outfit_warrior_2
+    21300006: r2c_male_outfit_warrior_3
+    21300008: r2c_male_outfit_warrior_4
+    21300010: r2c_male_outfit_warrior_5
+    21300012: r2c_male_outfit_warrior_6
+    21300014: r2c_male_outfit_warrior_7
+    21300016: r2c_male_outfit_warrior_8
+    21300018: r2c_male_outfit_warrior_9
+    21300020: r2c_male_outfit_warrior_10
+    21300022: r2c_male_outfit_warrior_11
+    21300024: r2c_male_outfit_warrior_12
+    21300026: r2c_male_outfit_warrior_13
+    21300028: r2c_male_outfit_warrior_14
+    21300030: r2c_male_outfit_warrior_15
+    21300032: r2c_male_outfit_warrior_16
+    21300034: r2c_male_outfit_warrior_17
+    21300036: r2c_male_outfit_warrior_18
+    21300038: r2c_male_outfit_warrior_19
+    21300040: r2c_male_outfit_warrior_20
+    21300042: r2c_male_outfit_warrior_21
+    21300044: r2c_male_outfit_warrior_22
+    21300046: r2c_male_outfit_warrior_23
+    21300048: r2c_male_outfit_warrior_24
+    21300050: r2c_male_outfit_warrior_25
+    21300052: r2c_male_outfit_warrior_26
+    21300054: r2c_male_outfit_warrior_27
+    21300056: r2c_male_outfit_warrior_28
+    21300058: r2c_male_outfit_warrior_29
+    21300060: r2c_male_outfit_warrior_30
+    21300062: r2c_male_outfit_warrior_31
+    21300064: r2c_male_outfit_warrior_32
+    21300066: r2c_male_outfit_warrior_33
+    21300068: r2c_male_outfit_warrior_34
+    21300070: r2c_male_outfit_warrior_35
+    21300072: r2c_male_outfit_warrior_36
+    21300074: r2c_male_outfit_warrior_37
+    21300076: r2c_male_outfit_warrior_38
+    21300078: r2c_male_outfit_warrior_39
+    21300080: r2c_male_outfit_warrior_40
+    21300082: r2c_male_outfit_warrior_41
+    21300084: r2c_male_outfit_warrior_42
+    21300086: r2c_male_outfit_warrior_43
+    21300088: r2c_male_outfit_warrior_44
+    21300090: r2c_male_outfit_warrior_45
+    21300092: r2c_male_outfit_warrior_46
+    21300094: r2c_male_outfit_warrior_47
+    21300096: r2c_male_outfit_warrior_48
+    21300098: r2c_male_outfit_warrior_49
+    21300100: r2c_male_outfit_warrior_50
+    21300102: r2c_male_outfit_warrior_51
+    21300104: r2c_male_outfit_warrior_52
+    21300106: r2c_male_outfit_warrior_53
+    21300108: r2c_male_outfit_warrior_54
+    21300110: r2c_male_outfit_warrior_55
+    21300112: r2c_male_outfit_warrior_56
+    21300114: r2c_male_outfit_warrior_57
+    21300116: r2c_male_outfit_warrior_58
+    21300118: r2c_male_outfit_warrior_59
+    21300120: r2c_male_outfit_warrior_60
+    21300122: r2c_male_outfit_warrior_61
+    21300124: r2c_male_outfit_warrior_62
+    21300126: r2c_male_outfit_warrior_63
+    21300128: r2c_male_outfit_warrior_64
+    21300130: r2c_male_outfit_warrior_65
+    21300132: r2c_male_outfit_warrior_66
+    21300134: r2c_male_outfit_warrior_67
+    21300136: r2c_male_outfit_warrior_68
+    21300138: r2c_male_outfit_warrior_69
+    21300140: r2c_male_outfit_warrior_70
+    21300142: r2c_male_outfit_warrior_71
+    21300144: r2c_male_outfit_warrior_72
+    21300146: r2c_male_outfit_warrior_73
+    21300148: r2c_male_outfit_warrior_74
+    21300150: r2c_male_outfit_warrior_75
+    21300152: r2c_male_outfit_warrior_76
+    21300154: r2c_male_outfit_warrior_77
+    21300156: r2c_male_outfit_warrior_78
+    21300158: r2c_male_outfit_warrior_79
+    21300160: r2c_male_outfit_warrior_80
+    21300162: r2c_male_outfit_warrior_81
+    21300164: r2c_male_outfit_warrior_82
+    21300166: r2c_male_outfit_warrior_83
+    21300168: r2c_male_outfit_warrior_84
+    21300170: r2c_male_outfit_warrior_85
+    21300172: r2c_male_outfit_warrior_86
+    21300174: r2c_male_outfit_warrior_87
+    21300176: r2c_male_outfit_warrior_88
+    21300178: r2c_male_outfit_warrior_89
+    21300180: r2c_male_outfit_warrior_90
+    21300182: r2c_male_outfit_warrior_91
+    21300184: r2c_male_outfit_warrior_92
+    21300186: r2c_male_outfit_warrior_93
+    21300188: r2c_male_outfit_warrior_94
+    21300190: r2c_male_outfit_warrior_95
+    21300192: r2c_male_outfit_warrior_96
+    21300194: r2c_male_outfit_warrior_97
+    21300196: r2c_male_outfit_warrior_98
+    21300198: r2c_male_outfit_warrior_99
+    21300200: r2c_male_outfit_warrior_100
+    21300202: r2c_male_outfit_warrior_101
+    21300204: r2c_male_outfit_warrior_102
+    21300206: r2c_male_outfit_warrior_103
+    21300208: r2c_male_outfit_warrior_104
+    21300210: r2c_male_outfit_warrior_105
+    21300212: r2c_male_outfit_warrior_106
+    21300214: r2c_male_outfit_warrior_107
+    21300216: r2c_male_outfit_warrior_108
+    21300218: r2c_male_outfit_warrior_109
+    21300220: r2c_male_outfit_warrior_110
+    21300222: r2c_male_outfit_warrior_111
+    21300224: r2c_male_outfit_warrior_112
+    21300226: r2c_male_outfit_warrior_113
+    21300228: r2c_male_outfit_warrior_114
+    21300230: r2c_male_outfit_warrior_115
+    21300232: r2c_male_outfit_warrior_116
+    21300234: r2c_male_outfit_warrior_117
+    21300236: r2c_male_outfit_warrior_118
+    21300238: r2c_male_outfit_warrior_119
+    21300240: r2c_male_outfit_warrior_120
+    21300242: r2c_male_outfit_warrior_121
+    21300244: r2c_male_outfit_warrior_122
+    21300246: r2c_male_outfit_warrior_123
+    21300248: r2c_male_outfit_warrior_124
+    21300250: r2c_male_outfit_warrior_125
+    21300252: r2c_male_outfit_warrior_126
+    21300254: r2c_male_outfit_warrior_127
+    21300256: r2c_male_outfit_warrior_128
+    21300258: r2c_male_outfit_warrior_129
+    21300260: r2c_male_outfit_warrior_130
+    21300262: r2c_male_outfit_warrior_131
+    21300264: r2c_male_outfit_warrior_132
+    21300266: r2c_male_outfit_warrior_133
+    21300268: r2c_male_outfit_warrior_134
+    21300270: r2c_male_outfit_warrior_135
+    21300272: r2c_male_outfit_warrior_136
+    21300274: r2c_male_outfit_warrior_137
+    21300276: r2c_male_outfit_warrior_138
+    21300278: r2c_male_outfit_warrior_139
+    21300280: r2c_male_outfit_warrior_140
+    21300282: r2c_male_outfit_warrior_141
+    21300284: r2c_male_outfit_warrior_142
+    21300286: r2c_male_outfit_warrior_143
+    21300288: r2c_male_outfit_warrior_144
+    21300290: r2c_male_outfit_warrior_145
+    21300292: r2c_male_outfit_warrior_146
+    21300294: r2c_male_outfit_warrior_147
+    21300296: r2c_male_outfit_warrior_148
+    21300298: r2c_male_outfit_warrior_149
+    21300300: r2c_male_outfit_warrior_150
+    21300302: r2c_male_outfit_warrior_151
+    21300304: r2c_male_outfit_warrior_152
+    21300306: r2c_male_outfit_warrior_153
+    21300308: r2c_male_outfit_warrior_154
+    21300310: r2c_male_outfit_warrior_155
+    21300312: r2c_male_outfit_warrior_156
+    21300314: r2c_male_outfit_warrior_157
+    21300316: r2c_male_outfit_warrior_158
+    21300318: r2c_male_outfit_warrior_159
+    21300320: r2c_male_outfit_warrior_160
+    21300322: r2c_male_outfit_warrior_161
+    21300324: r2c_male_outfit_warrior_162
+    21300326: r2c_male_outfit_warrior_163
+    21300328: r2c_male_outfit_warrior_164
+    21300330: r2c_male_outfit_warrior_165
+    21300332: r2c_male_outfit_warrior_166
+    21300334: r2c_male_outfit_warrior_167
+    21300336: r2c_male_outfit_warrior_168
+    21300338: r2c_male_outfit_warrior_169
+    21300340: r2c_male_outfit_warrior_170
+    21300342: r2c_male_outfit_warrior_171
+    21300344: r2c_male_outfit_warrior_172
+    21300346: r2c_male_outfit_warrior_173
+    21300348: r2c_male_outfit_warrior_174
+    21300350: r2c_male_outfit_warrior_175
+    21300352: r2c_male_outfit_warrior_176
+    21300354: r2c_male_outfit_warrior_177
+    21300356: r2c_male_outfit_warrior_178
+    21300358: r2c_male_outfit_warrior_179
+    21300360: r2c_male_outfit_warrior_180
+    21300362: r2c_male_outfit_warrior_181
+    21300364: r2c_male_outfit_warrior_182
+    21300366: r2c_male_outfit_warrior_183
+    21300368: r2c_male_outfit_warrior_184
+    21300370: r2c_male_outfit_warrior_185
+    21300372: r2c_male_outfit_warrior_186
+    21300374: r2c_male_outfit_warrior_187
+    21300376: r2c_male_outfit_warrior_188
+    21300378: r2c_male_outfit_warrior_189
+    21300380: r2c_male_outfit_warrior_190
+    21300382: r2c_male_outfit_warrior_191
+    21300384: r2c_male_outfit_warrior_192
+    21300386: r2c_male_outfit_warrior_193
+    21300388: r2c_male_outfit_warrior_194
+    21300390: r2c_male_outfit_warrior_195
+    21300392: r2c_male_outfit_warrior_196
+    21300394: r2c_male_outfit_warrior_197
+    21300396: r2c_male_outfit_warrior_198
+    21300398: r2c_male_outfit_warrior_199
+    21300400: r2c_male_outfit_warrior_200
+    21300402: r2c_male_outfit_warrior_201
+    21300404: r2c_male_outfit_warrior_202
+    21300406: r2c_male_outfit_warrior_203
+    21300408: r2c_male_outfit_warrior_204
+    21300410: r2c_male_outfit_warrior_205
+    21300412: r2c_male_outfit_warrior_206
+    21300414: r2c_male_outfit_warrior_207
+    21300416: r2c_male_outfit_warrior_208
+    21300418: r2c_male_outfit_warrior_209
+    21300420: r2c_male_outfit_warrior_210
+    21300422: r2c_male_outfit_warrior_211
+    21300424: r2c_male_outfit_warrior_212
+    21300426: r2c_male_outfit_warrior_213
+    21300428: r2c_male_outfit_warrior_214
+    21300430: r2c_male_outfit_warrior_215
+    21300432: r2c_male_outfit_warrior_216
+    21300434: r2c_male_outfit_warrior_217
+    21300436: r2c_male_outfit_warrior_218
+    21300438: r2c_male_outfit_warrior_219
+    21300440: r2c_male_outfit_warrior_220
+    21300442: r2c_male_outfit_warrior_221
+    21300444: r2c_male_outfit_warrior_222
+    21300446: r2c_male_outfit_warrior_223
+    21300448: r2c_male_outfit_warrior_224
+    21300450: r2c_male_outfit_warrior_225
+    21300452: r2c_male_outfit_warrior_226
+    21300454: r2c_male_outfit_warrior_227
+    21300456: r2c_male_outfit_warrior_228
+    21300458: r2c_male_outfit_warrior_229
+    21300460: r2c_male_outfit_warrior_230
+    21300462: r2c_male_outfit_warrior_231
+    21300464: r2c_male_outfit_warrior_232
+    21300466: r2c_male_outfit_warrior_233
+    21300468: r2c_male_outfit_warrior_234
+    21300470: r2c_male_outfit_warrior_235
+    21300472: r2c_male_outfit_warrior_236
+    21300474: r2c_male_outfit_warrior_237
+    21300476: r2c_male_outfit_warrior_238
+    21300478: r2c_male_outfit_warrior_239
+    21300480: r2c_male_outfit_warrior_240
+    21300482: r2c_male_outfit_warrior_241
+    21300484: r2c_male_outfit_warrior_242
+    21300486: r2c_male_outfit_warrior_243
+    21300488: r2c_male_outfit_warrior_244
+    21300490: r2c_male_outfit_warrior_245
+    21300492: r2c_male_outfit_warrior_246
+    21300494: r2c_male_outfit_warrior_247
+    21300496: r2c_male_outfit_warrior_248
+    21300498: r2c_male_outfit_warrior_249
+    21300500: r2c_male_outfit_warrior_250
+    21300502: r2c_male_outfit_warrior_251
+    21300504: r2c_male_outfit_warrior_252
+    21300506: r2c_male_outfit_warrior_253
+    21300508: r2c_male_outfit_warrior_254
+    21300510: r2c_male_outfit_warrior_255
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,6 +309,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 32
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings:
   - buildTarget: iPhone
@@ -72,7 +329,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_1
       rect:
         serializedVersion: 2
@@ -83,7 +347,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 4}
+        - {x: -8, y: 0}
+        - {x: 5, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 12}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_2
       rect:
         serializedVersion: 2
@@ -94,7 +367,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 6}
+        - {x: -8, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 4}
+        - {x: 8, y: 13}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_3
       rect:
         serializedVersion: 2
@@ -105,7 +387,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -10, y: 20}
+        - {x: -10, y: 14}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 12}
+        - {x: 9, y: 19}
+        - {x: 6, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_4
       rect:
         serializedVersion: 2
@@ -116,7 +407,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -10, y: 9}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 2}
+        - {x: 9, y: 8}
+        - {x: 9, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_5
       rect:
         serializedVersion: 2
@@ -127,7 +426,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -10, y: 11}
+        - {x: -6, y: 2}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 10}
+        - {x: 9, y: 20}
+        - {x: 8, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_6
       rect:
         serializedVersion: 2
@@ -138,7 +446,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -10, y: 13}
+        - {x: -10, y: 5}
+        - {x: -9, y: 0}
+        - {x: 3, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 11}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_7
       rect:
         serializedVersion: 2
@@ -149,7 +466,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -7, y: 1}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 12}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_8
       rect:
         serializedVersion: 2
@@ -160,7 +487,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 6}
+        - {x: -9, y: 3}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_9
       rect:
         serializedVersion: 2
@@ -171,7 +508,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 6}
+        - {x: -9, y: 3}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_10
       rect:
         serializedVersion: 2
@@ -182,7 +529,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: 5}
+        - {x: -5, y: 0}
+        - {x: 2, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_11
       rect:
         serializedVersion: 2
@@ -193,7 +549,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: 5}
+        - {x: -5, y: 0}
+        - {x: 2, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_12
       rect:
         serializedVersion: 2
@@ -204,7 +569,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_13
       rect:
         serializedVersion: 2
@@ -215,7 +587,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_14
       rect:
         serializedVersion: 2
@@ -226,7 +605,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_15
       rect:
         serializedVersion: 2
@@ -237,7 +623,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_16
       rect:
         serializedVersion: 2
@@ -248,7 +641,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_17
       rect:
         serializedVersion: 2
@@ -259,7 +661,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -8, y: 8}
+        - {x: -8, y: 6}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 9}
+        - {x: 6, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_18
       rect:
         serializedVersion: 2
@@ -270,7 +680,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -6, y: 12}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_19
       rect:
         serializedVersion: 2
@@ -281,7 +697,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 20}
+        - {x: -6, y: 19}
+        - {x: -6, y: 11}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 11}
+        - {x: 8, y: 15}
+        - {x: 2, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_20
       rect:
         serializedVersion: 2
@@ -292,7 +717,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 19}
+        - {x: -3, y: 19}
+        - {x: -6, y: 17}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_21
       rect:
         serializedVersion: 2
@@ -303,7 +736,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 17}
+        - {x: 3, y: 19}
+        - {x: -3, y: 19}
+        - {x: -6, y: 17}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 1}
+        - {x: 9, y: 7}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_22
       rect:
         serializedVersion: 2
@@ -314,7 +756,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -10, y: 13}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_23
       rect:
         serializedVersion: 2
@@ -325,7 +773,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -9, y: 11}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 7}
+        - {x: 7, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_24
       rect:
         serializedVersion: 2
@@ -336,7 +791,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 5}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 10, y: 2}
+        - {x: 10, y: 14}
+        - {x: 9, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_25
       rect:
         serializedVersion: 2
@@ -347,7 +811,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 5}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 10, y: 2}
+        - {x: 10, y: 14}
+        - {x: 9, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_26
       rect:
         serializedVersion: 2
@@ -358,7 +831,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: 7}
+        - {x: -7, y: 2}
+        - {x: -4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 12}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_27
       rect:
         serializedVersion: 2
@@ -369,7 +852,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: 7}
+        - {x: -7, y: 2}
+        - {x: -4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 12}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_28
       rect:
         serializedVersion: 2
@@ -380,7 +873,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_29
       rect:
         serializedVersion: 2
@@ -391,7 +893,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_30
       rect:
         serializedVersion: 2
@@ -402,7 +913,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_31
       rect:
         serializedVersion: 2
@@ -413,7 +933,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_32
       rect:
         serializedVersion: 2
@@ -424,7 +953,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_33
       rect:
         serializedVersion: 2
@@ -435,7 +973,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -10, y: 8}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 1}
+        - {x: 7, y: 9}
+        - {x: 2, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_34
       rect:
         serializedVersion: 2
@@ -446,7 +992,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -8, y: 13}
+        - {x: -10, y: 7}
+        - {x: -10, y: 1}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: 13}
+        - {x: 2, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_35
       rect:
         serializedVersion: 2
@@ -457,7 +1012,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: 20}
+        - {x: -4, y: 19}
+        - {x: -9, y: 16}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 8}
+        - {x: 5, y: 17}
+        - {x: 4, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_36
       rect:
         serializedVersion: 2
@@ -468,7 +1033,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: 4, y: 19}
+        - {x: -7, y: 19}
+        - {x: -10, y: 12}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_37
       rect:
         serializedVersion: 2
@@ -479,7 +1051,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -1, y: 19}
+        - {x: -4, y: 18}
+        - {x: -9, y: 13}
+        - {x: -10, y: 3}
+        - {x: -10, y: 1}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: 17}
+        - {x: 4, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_38
       rect:
         serializedVersion: 2
@@ -490,7 +1072,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -11, y: 10}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 11}
+        - {x: 5, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_39
       rect:
         serializedVersion: 2
@@ -501,7 +1091,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 14}
+        - {x: -11, y: 10}
+        - {x: -11, y: 2}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 11}
+        - {x: 5, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_40
       rect:
         serializedVersion: 2
@@ -512,7 +1111,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 12}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_41
       rect:
         serializedVersion: 2
@@ -523,7 +1130,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 12}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_42
       rect:
         serializedVersion: 2
@@ -534,7 +1149,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 4, y: 0}
+        - {x: 7, y: 3}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_43
       rect:
         serializedVersion: 2
@@ -545,7 +1168,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 4, y: 0}
+        - {x: 7, y: 3}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_44
       rect:
         serializedVersion: 2
@@ -556,7 +1187,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_45
       rect:
         serializedVersion: 2
@@ -567,7 +1207,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_46
       rect:
         serializedVersion: 2
@@ -578,7 +1227,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_47
       rect:
         serializedVersion: 2
@@ -589,7 +1247,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_48
       rect:
         serializedVersion: 2
@@ -600,7 +1267,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_49
       rect:
         serializedVersion: 2
@@ -611,7 +1285,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: 7}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 8}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_50
       rect:
         serializedVersion: 2
@@ -622,7 +1305,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: 0}
+        - {x: 3, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 12}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_51
       rect:
         serializedVersion: 2
@@ -633,7 +1323,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 5}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 8}
+        - {x: 9, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_52
       rect:
         serializedVersion: 2
@@ -644,7 +1341,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 14}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_53
       rect:
         serializedVersion: 2
@@ -655,7 +1359,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 11}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 9, y: 14}
+        - {x: 9, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_54
       rect:
         serializedVersion: 2
@@ -666,7 +1377,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 3, y: 0}
+        - {x: 7, y: 3}
+        - {x: 8, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_55
       rect:
         serializedVersion: 2
@@ -677,7 +1397,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 9}
+        - {x: 9, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_56
       rect:
         serializedVersion: 2
@@ -688,7 +1417,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -2, y: 17}
+        - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 1}
+        - {x: -3, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 2}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_57
       rect:
         serializedVersion: 2
@@ -699,7 +1438,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -2, y: 17}
+        - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 1}
+        - {x: -3, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 2}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_58
       rect:
         serializedVersion: 2
@@ -710,7 +1459,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 11}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_59
       rect:
         serializedVersion: 2
@@ -721,7 +1479,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 11}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_60
       rect:
         serializedVersion: 2
@@ -732,7 +1499,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_61
       rect:
         serializedVersion: 2
@@ -743,7 +1517,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_62
       rect:
         serializedVersion: 2
@@ -754,7 +1535,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_63
       rect:
         serializedVersion: 2
@@ -765,7 +1553,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -14, y: 6}
+        - {x: -16, y: 3}
+        - {x: -16, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 5}
+        - {x: 0, y: 11}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_64
       rect:
         serializedVersion: 2
@@ -776,7 +1572,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 1, y: 20}
+        - {x: -10, y: 20}
+        - {x: -13, y: 19}
+        - {x: -13, y: 15}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 13}
+        - {x: 7, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_65
       rect:
         serializedVersion: 2
@@ -787,7 +1593,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -10, y: 20}
+        - {x: -10, y: 12}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 16}
+        - {x: 2, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_66
       rect:
         serializedVersion: 2
@@ -798,7 +1613,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_67
       rect:
         serializedVersion: 2
@@ -809,7 +1630,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_68
       rect:
         serializedVersion: 2
@@ -820,7 +1647,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_69
       rect:
         serializedVersion: 2
@@ -831,7 +1664,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -9, y: 14}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 14}
+        - {x: 7, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_70
       rect:
         serializedVersion: 2
@@ -842,7 +1684,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: 1}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+        - {x: 7, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_71
       rect:
         serializedVersion: 2
@@ -853,7 +1703,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_72
       rect:
         serializedVersion: 2
@@ -864,7 +1720,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: 5}
+        - {x: -5, y: 0}
+        - {x: 5, y: 0}
+        - {x: 7, y: 2}
+        - {x: 7, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_73
       rect:
         serializedVersion: 2
@@ -875,7 +1739,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -10, y: 15}
+        - {x: -10, y: 13}
+        - {x: -9, y: 5}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 10, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_74
       rect:
         serializedVersion: 2
@@ -886,7 +1760,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -9, y: 13}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 10, y: 11}
+        - {x: 10, y: 14}
+        - {x: 8, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_75
       rect:
         serializedVersion: 2
@@ -897,7 +1779,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 15}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_76
       rect:
         serializedVersion: 2
@@ -908,7 +1797,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_77
       rect:
         serializedVersion: 2
@@ -919,7 +1814,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_78
       rect:
         serializedVersion: 2
@@ -930,7 +1831,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_79
       rect:
         serializedVersion: 2
@@ -941,7 +1849,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_80
       rect:
         serializedVersion: 2
@@ -952,7 +1868,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -7, y: 20}
+        - {x: -7, y: 11}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 14}
+        - {x: 0, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_81
       rect:
         serializedVersion: 2
@@ -963,7 +1888,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 1, y: 21}
+        - {x: -3, y: 21}
+        - {x: -5, y: 18}
+        - {x: -5, y: 5}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 8}
+        - {x: 8, y: 14}
+        - {x: 5, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_82
       rect:
         serializedVersion: 2
@@ -974,7 +1909,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -6, y: 4}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 12}
+        - {x: 6, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_83
       rect:
         serializedVersion: 2
@@ -985,7 +1927,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -6, y: 4}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 12}
+        - {x: 6, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_84
       rect:
         serializedVersion: 2
@@ -996,7 +1945,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 2, y: 17}
+        - {x: -6, y: 15}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 2}
+        - {x: 7, y: 15}
+        - {x: 5, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_85
       rect:
         serializedVersion: 2
@@ -1007,7 +1964,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 14}
+        - {x: 0, y: 15}
+        - {x: -2, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: 6}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 10}
+        - {x: 9, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_86
       rect:
         serializedVersion: 2
@@ -1018,7 +1985,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -7, y: 1}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+        - {x: 8, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_87
       rect:
         serializedVersion: 2
@@ -1029,7 +2003,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_88
       rect:
         serializedVersion: 2
@@ -1040,7 +2022,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -1, y: 17}
+        - {x: -4, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 2}
+        - {x: 10, y: 7}
+        - {x: 10, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_89
       rect:
         serializedVersion: 2
@@ -1051,7 +2043,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 0, y: 17}
+        - {x: -5, y: 17}
+        - {x: -8, y: 15}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 6}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_90
       rect:
         serializedVersion: 2
@@ -1062,7 +2063,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 6}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_91
       rect:
         serializedVersion: 2
@@ -1073,7 +2082,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -6, y: 14}
+        - {x: -6, y: 6}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_92
       rect:
         serializedVersion: 2
@@ -1084,7 +2100,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -6, y: 14}
+        - {x: -6, y: 6}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_93
       rect:
         serializedVersion: 2
@@ -1095,7 +2118,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_94
       rect:
         serializedVersion: 2
@@ -1106,7 +2136,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_95
       rect:
         serializedVersion: 2
@@ -1117,7 +2156,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -5, y: 16}
+        - {x: -6, y: 15}
+        - {x: -6, y: 6}
+        - {x: -5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 3}
+        - {x: 8, y: 10}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_96
       rect:
         serializedVersion: 2
@@ -1128,7 +2177,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -1, y: 21}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 6, y: 9}
+        - {x: 6, y: 18}
+        - {x: 5, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_97
       rect:
         serializedVersion: 2
@@ -1139,7 +2197,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: 21}
+        - {x: -7, y: 20}
+        - {x: -9, y: 15}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 4, y: 12}
+        - {x: 4, y: 17}
+        - {x: 2, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_98
       rect:
         serializedVersion: 2
@@ -1150,7 +2218,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 5, y: 5}
+        - {x: 5, y: 10}
+        - {x: 4, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_99
       rect:
         serializedVersion: 2
@@ -1161,7 +2237,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 5, y: 5}
+        - {x: 5, y: 10}
+        - {x: 4, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_100
       rect:
         serializedVersion: 2
@@ -1172,7 +2256,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: 12}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_101
       rect:
         serializedVersion: 2
@@ -1183,7 +2274,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -11, y: 8}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 1, y: 0}
+        - {x: 6, y: 5}
+        - {x: 6, y: 9}
+        - {x: 4, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_102
       rect:
         serializedVersion: 2
@@ -1194,7 +2294,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -10, y: 5}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 6, y: 6}
+        - {x: 4, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_103
       rect:
         serializedVersion: 2
@@ -1205,7 +2312,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 15}
+        - {x: 0, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_104
       rect:
         serializedVersion: 2
@@ -1216,7 +2329,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_105
       rect:
         serializedVersion: 2
@@ -1227,7 +2347,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -8, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 16}
+        - {x: 5, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_106
       rect:
         serializedVersion: 2
@@ -1238,7 +2366,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: 10}
+        - {x: -10, y: 7}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 15}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_107
       rect:
         serializedVersion: 2
@@ -1249,7 +2386,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -9, y: 5}
+        - {x: -8, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 3}
+        - {x: 5, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_108
       rect:
         serializedVersion: 2
@@ -1260,7 +2404,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -9, y: 5}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 5}
+        - {x: 5, y: 13}
+        - {x: 4, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_109
       rect:
         serializedVersion: 2
@@ -1271,7 +2423,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 10}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_110
       rect:
         serializedVersion: 2
@@ -1282,7 +2442,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 8}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 4, y: 7}
+        - {x: 4, y: 14}
+        - {x: 2, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_111
       rect:
         serializedVersion: 2
@@ -1293,7 +2462,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 7}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 6}
+        - {x: 5, y: 14}
+        - {x: 4, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_112
       rect:
         serializedVersion: 2
@@ -1304,7 +2482,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -13, y: 22}
+        - {x: -13, y: 15}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 6, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_113
       rect:
         serializedVersion: 2
@@ -1315,7 +2502,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -10, y: 20}
+        - {x: -10, y: 7}
+        - {x: -9, y: 2}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 7, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_114
       rect:
         serializedVersion: 2
@@ -1326,7 +2523,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 11}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_115
       rect:
         serializedVersion: 2
@@ -1337,7 +2542,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 11}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_116
       rect:
         serializedVersion: 2
@@ -1348,7 +2561,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -1, y: 17}
+        - {x: -5, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 5}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 6, y: 1}
+        - {x: 8, y: 10}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_117
       rect:
         serializedVersion: 2
@@ -1359,7 +2583,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 7}
+        - {x: -7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 15}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_118
       rect:
         serializedVersion: 2
@@ -1370,7 +2602,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 11}
+        - {x: 5, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_119
       rect:
         serializedVersion: 2
@@ -1381,7 +2619,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -9, y: 14}
+        - {x: -9, y: 1}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 2}
+        - {x: 9, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_120
       rect:
         serializedVersion: 2
@@ -1392,7 +2638,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -10, y: 17}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_121
       rect:
         serializedVersion: 2
@@ -1403,7 +2656,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -6, y: 17}
+        - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_122
       rect:
         serializedVersion: 2
@@ -1414,7 +2674,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_123
       rect:
         serializedVersion: 2
@@ -1425,7 +2693,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 15}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_124
       rect:
         serializedVersion: 2
@@ -1436,7 +2711,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_125
       rect:
         serializedVersion: 2
@@ -1447,7 +2730,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 6}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 13}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_126
       rect:
         serializedVersion: 2
@@ -1458,7 +2750,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_127
       rect:
         serializedVersion: 2
@@ -1469,7 +2768,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 5}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_128
       rect:
         serializedVersion: 2
@@ -1480,7 +2788,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_129
       rect:
         serializedVersion: 2
@@ -1491,7 +2806,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 4}
+        - {x: -8, y: 0}
+        - {x: 5, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 12}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_130
       rect:
         serializedVersion: 2
@@ -1502,7 +2826,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 6}
+        - {x: -8, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 4}
+        - {x: 8, y: 13}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_131
       rect:
         serializedVersion: 2
@@ -1513,7 +2846,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -10, y: 20}
+        - {x: -10, y: 14}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 12}
+        - {x: 9, y: 19}
+        - {x: 6, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_132
       rect:
         serializedVersion: 2
@@ -1524,7 +2866,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -10, y: 9}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 2}
+        - {x: 9, y: 8}
+        - {x: 9, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_133
       rect:
         serializedVersion: 2
@@ -1535,7 +2885,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -10, y: 11}
+        - {x: -6, y: 2}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 10}
+        - {x: 9, y: 20}
+        - {x: 8, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_134
       rect:
         serializedVersion: 2
@@ -1546,7 +2905,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -10, y: 13}
+        - {x: -10, y: 5}
+        - {x: -9, y: 0}
+        - {x: 3, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 11}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_135
       rect:
         serializedVersion: 2
@@ -1557,7 +2925,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -7, y: 1}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 12}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_136
       rect:
         serializedVersion: 2
@@ -1568,7 +2946,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 6}
+        - {x: -9, y: 3}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_137
       rect:
         serializedVersion: 2
@@ -1579,7 +2967,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -6, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 6}
+        - {x: -9, y: 3}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_138
       rect:
         serializedVersion: 2
@@ -1590,7 +2988,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: 5}
+        - {x: -5, y: 0}
+        - {x: 2, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_139
       rect:
         serializedVersion: 2
@@ -1601,7 +3008,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 13}
+        - {x: -10, y: 5}
+        - {x: -5, y: 0}
+        - {x: 2, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_140
       rect:
         serializedVersion: 2
@@ -1612,7 +3028,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_141
       rect:
         serializedVersion: 2
@@ -1623,7 +3046,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_142
       rect:
         serializedVersion: 2
@@ -1634,7 +3064,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_143
       rect:
         serializedVersion: 2
@@ -1645,7 +3082,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_144
       rect:
         serializedVersion: 2
@@ -1656,7 +3100,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_145
       rect:
         serializedVersion: 2
@@ -1667,7 +3120,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -8, y: 8}
+        - {x: -8, y: 6}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 9}
+        - {x: 6, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_146
       rect:
         serializedVersion: 2
@@ -1678,7 +3139,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -6, y: 12}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_147
       rect:
         serializedVersion: 2
@@ -1689,7 +3156,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 20}
+        - {x: -6, y: 19}
+        - {x: -6, y: 11}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 11}
+        - {x: 8, y: 15}
+        - {x: 2, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_148
       rect:
         serializedVersion: 2
@@ -1700,7 +3176,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 19}
+        - {x: -3, y: 19}
+        - {x: -6, y: 17}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_149
       rect:
         serializedVersion: 2
@@ -1711,7 +3195,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 17}
+        - {x: 3, y: 19}
+        - {x: -3, y: 19}
+        - {x: -6, y: 17}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 1}
+        - {x: 9, y: 7}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_150
       rect:
         serializedVersion: 2
@@ -1722,7 +3215,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -10, y: 13}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_151
       rect:
         serializedVersion: 2
@@ -1733,7 +3232,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -9, y: 11}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 7}
+        - {x: 7, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_152
       rect:
         serializedVersion: 2
@@ -1744,7 +3250,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 5}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 10, y: 2}
+        - {x: 10, y: 14}
+        - {x: 9, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_153
       rect:
         serializedVersion: 2
@@ -1755,7 +3270,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 5}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 10, y: 2}
+        - {x: 10, y: 14}
+        - {x: 9, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_154
       rect:
         serializedVersion: 2
@@ -1766,7 +3290,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: 7}
+        - {x: -7, y: 2}
+        - {x: -4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 12}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_155
       rect:
         serializedVersion: 2
@@ -1777,7 +3311,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: 7}
+        - {x: -7, y: 2}
+        - {x: -4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 12}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_156
       rect:
         serializedVersion: 2
@@ -1788,7 +3332,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_157
       rect:
         serializedVersion: 2
@@ -1799,7 +3352,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_158
       rect:
         serializedVersion: 2
@@ -1810,7 +3372,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_159
       rect:
         serializedVersion: 2
@@ -1821,7 +3392,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_160
       rect:
         serializedVersion: 2
@@ -1832,7 +3412,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_161
       rect:
         serializedVersion: 2
@@ -1843,7 +3432,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -10, y: 8}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 1}
+        - {x: 7, y: 9}
+        - {x: 2, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_162
       rect:
         serializedVersion: 2
@@ -1854,7 +3451,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -8, y: 13}
+        - {x: -10, y: 7}
+        - {x: -10, y: 1}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: 13}
+        - {x: 2, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_163
       rect:
         serializedVersion: 2
@@ -1865,7 +3471,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: 20}
+        - {x: -4, y: 19}
+        - {x: -9, y: 16}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 8}
+        - {x: 5, y: 17}
+        - {x: 4, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_164
       rect:
         serializedVersion: 2
@@ -1876,7 +3492,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: 4, y: 19}
+        - {x: -7, y: 19}
+        - {x: -10, y: 12}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_165
       rect:
         serializedVersion: 2
@@ -1887,7 +3510,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -1, y: 19}
+        - {x: -4, y: 18}
+        - {x: -9, y: 13}
+        - {x: -10, y: 3}
+        - {x: -10, y: 1}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: 17}
+        - {x: 4, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_166
       rect:
         serializedVersion: 2
@@ -1898,7 +3531,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -11, y: 10}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 11}
+        - {x: 5, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_167
       rect:
         serializedVersion: 2
@@ -1909,7 +3550,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 14}
+        - {x: -11, y: 10}
+        - {x: -11, y: 2}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 11}
+        - {x: 5, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_168
       rect:
         serializedVersion: 2
@@ -1920,7 +3570,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 12}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_169
       rect:
         serializedVersion: 2
@@ -1931,7 +3589,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 12}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_170
       rect:
         serializedVersion: 2
@@ -1942,7 +3608,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 4, y: 0}
+        - {x: 7, y: 3}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_171
       rect:
         serializedVersion: 2
@@ -1953,7 +3627,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 4, y: 0}
+        - {x: 7, y: 3}
+        - {x: 7, y: 12}
+        - {x: 6, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_172
       rect:
         serializedVersion: 2
@@ -1964,7 +3646,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_173
       rect:
         serializedVersion: 2
@@ -1975,7 +3666,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_174
       rect:
         serializedVersion: 2
@@ -1986,7 +3686,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_175
       rect:
         serializedVersion: 2
@@ -1997,7 +3706,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_176
       rect:
         serializedVersion: 2
@@ -2008,7 +3726,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_177
       rect:
         serializedVersion: 2
@@ -2019,7 +3745,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: 7}
+        - {x: -4, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 8}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_178
       rect:
         serializedVersion: 2
@@ -2030,7 +3765,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: 0}
+        - {x: 3, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 12}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_179
       rect:
         serializedVersion: 2
@@ -2041,7 +3783,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 5}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 8}
+        - {x: 9, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_180
       rect:
         serializedVersion: 2
@@ -2052,7 +3801,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 14}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_181
       rect:
         serializedVersion: 2
@@ -2063,7 +3819,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 11}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 9, y: 14}
+        - {x: 9, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_182
       rect:
         serializedVersion: 2
@@ -2074,7 +3837,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 3, y: 0}
+        - {x: 7, y: 3}
+        - {x: 8, y: 7}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_183
       rect:
         serializedVersion: 2
@@ -2085,7 +3857,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 9}
+        - {x: 9, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_184
       rect:
         serializedVersion: 2
@@ -2096,7 +3877,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -2, y: 17}
+        - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 1}
+        - {x: -3, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 2}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_185
       rect:
         serializedVersion: 2
@@ -2107,7 +3898,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -2, y: 17}
+        - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 1}
+        - {x: -3, y: 0}
+        - {x: 6, y: 0}
+        - {x: 8, y: 2}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_186
       rect:
         serializedVersion: 2
@@ -2118,7 +3919,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 11}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_187
       rect:
         serializedVersion: 2
@@ -2129,7 +3939,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 11}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_188
       rect:
         serializedVersion: 2
@@ -2140,7 +3959,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_189
       rect:
         serializedVersion: 2
@@ -2151,7 +3978,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_190
       rect:
         serializedVersion: 2
@@ -2162,7 +3997,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_191
       rect:
         serializedVersion: 2
@@ -2173,7 +4016,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -14, y: 6}
+        - {x: -16, y: 3}
+        - {x: -16, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 5}
+        - {x: 0, y: 11}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_192
       rect:
         serializedVersion: 2
@@ -2184,7 +4035,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 1, y: 20}
+        - {x: -10, y: 20}
+        - {x: -13, y: 19}
+        - {x: -13, y: 15}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 13}
+        - {x: 7, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_193
       rect:
         serializedVersion: 2
@@ -2195,7 +4056,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -10, y: 20}
+        - {x: -10, y: 12}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 16}
+        - {x: 2, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_194
       rect:
         serializedVersion: 2
@@ -2206,7 +4076,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_195
       rect:
         serializedVersion: 2
@@ -2217,7 +4093,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 5}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_196
       rect:
         serializedVersion: 2
@@ -2228,7 +4110,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_197
       rect:
         serializedVersion: 2
@@ -2239,7 +4127,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -9, y: 14}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 14}
+        - {x: 7, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_198
       rect:
         serializedVersion: 2
@@ -2250,7 +4147,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: 1}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+        - {x: 7, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_199
       rect:
         serializedVersion: 2
@@ -2261,7 +4166,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_200
       rect:
         serializedVersion: 2
@@ -2272,7 +4183,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -8, y: 16}
+        - {x: -8, y: 5}
+        - {x: -5, y: 0}
+        - {x: 5, y: 0}
+        - {x: 7, y: 2}
+        - {x: 7, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_201
       rect:
         serializedVersion: 2
@@ -2283,7 +4202,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -10, y: 15}
+        - {x: -10, y: 13}
+        - {x: -9, y: 5}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 10, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_202
       rect:
         serializedVersion: 2
@@ -2294,7 +4223,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -9, y: 13}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 10, y: 11}
+        - {x: 10, y: 14}
+        - {x: 8, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_203
       rect:
         serializedVersion: 2
@@ -2305,7 +4242,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 15}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_204
       rect:
         serializedVersion: 2
@@ -2316,7 +4260,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_205
       rect:
         serializedVersion: 2
@@ -2327,7 +4277,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_206
       rect:
         serializedVersion: 2
@@ -2338,7 +4294,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_207
       rect:
         serializedVersion: 2
@@ -2349,7 +4312,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 6}
+        - {x: 9, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_208
       rect:
         serializedVersion: 2
@@ -2360,7 +4331,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -7, y: 20}
+        - {x: -7, y: 11}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 14}
+        - {x: 0, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_209
       rect:
         serializedVersion: 2
@@ -2371,7 +4351,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 1, y: 21}
+        - {x: -3, y: 21}
+        - {x: -5, y: 18}
+        - {x: -5, y: 5}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 8}
+        - {x: 8, y: 14}
+        - {x: 5, y: 19}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_210
       rect:
         serializedVersion: 2
@@ -2382,7 +4372,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -6, y: 4}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 12}
+        - {x: 6, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_211
       rect:
         serializedVersion: 2
@@ -2393,7 +4390,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -6, y: 4}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 12}
+        - {x: 6, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_212
       rect:
         serializedVersion: 2
@@ -2404,7 +4408,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 2, y: 17}
+        - {x: -6, y: 15}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 2}
+        - {x: 7, y: 15}
+        - {x: 5, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_213
       rect:
         serializedVersion: 2
@@ -2415,7 +4427,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 14}
+        - {x: 0, y: 15}
+        - {x: -2, y: 15}
+        - {x: -7, y: 11}
+        - {x: -7, y: 6}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 10}
+        - {x: 9, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_214
       rect:
         serializedVersion: 2
@@ -2426,7 +4448,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -7, y: 1}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+        - {x: 8, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_215
       rect:
         serializedVersion: 2
@@ -2437,7 +4466,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 15}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_216
       rect:
         serializedVersion: 2
@@ -2448,7 +4485,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -1, y: 17}
+        - {x: -4, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 2}
+        - {x: 10, y: 7}
+        - {x: 10, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_217
       rect:
         serializedVersion: 2
@@ -2459,7 +4506,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 0, y: 17}
+        - {x: -5, y: 17}
+        - {x: -8, y: 15}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 6}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_218
       rect:
         serializedVersion: 2
@@ -2470,7 +4526,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 6}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_219
       rect:
         serializedVersion: 2
@@ -2481,7 +4545,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 15}
+        - {x: -6, y: 14}
+        - {x: -6, y: 6}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_220
       rect:
         serializedVersion: 2
@@ -2492,7 +4563,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -6, y: 14}
+        - {x: -6, y: 6}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_221
       rect:
         serializedVersion: 2
@@ -2503,7 +4581,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_222
       rect:
         serializedVersion: 2
@@ -2514,7 +4599,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 7}
+        - {x: -4, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 14}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_223
       rect:
         serializedVersion: 2
@@ -2525,7 +4619,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -5, y: 16}
+        - {x: -6, y: 15}
+        - {x: -6, y: 6}
+        - {x: -5, y: 0}
+        - {x: 6, y: 0}
+        - {x: 7, y: 3}
+        - {x: 8, y: 10}
+        - {x: 8, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_224
       rect:
         serializedVersion: 2
@@ -2536,7 +4640,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -1, y: 21}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 6, y: 9}
+        - {x: 6, y: 18}
+        - {x: 5, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_225
       rect:
         serializedVersion: 2
@@ -2547,7 +4660,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: 21}
+        - {x: -7, y: 20}
+        - {x: -9, y: 15}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 3, y: 0}
+        - {x: 4, y: 12}
+        - {x: 4, y: 17}
+        - {x: 2, y: 21}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_226
       rect:
         serializedVersion: 2
@@ -2558,7 +4681,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 5, y: 5}
+        - {x: 5, y: 10}
+        - {x: 4, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_227
       rect:
         serializedVersion: 2
@@ -2569,7 +4700,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 8}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 5, y: 5}
+        - {x: 5, y: 10}
+        - {x: 4, y: 13}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_228
       rect:
         serializedVersion: 2
@@ -2580,7 +4719,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+        - {x: 5, y: 12}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_229
       rect:
         serializedVersion: 2
@@ -2591,7 +4737,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -11, y: 8}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 1, y: 0}
+        - {x: 6, y: 5}
+        - {x: 6, y: 9}
+        - {x: 4, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_230
       rect:
         serializedVersion: 2
@@ -2602,7 +4757,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -10, y: 5}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 6, y: 6}
+        - {x: 4, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_231
       rect:
         serializedVersion: 2
@@ -2613,7 +4775,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 15}
+        - {x: 0, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_232
       rect:
         serializedVersion: 2
@@ -2624,7 +4792,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 13}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_233
       rect:
         serializedVersion: 2
@@ -2635,7 +4810,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -8, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 16}
+        - {x: 5, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_234
       rect:
         serializedVersion: 2
@@ -2646,7 +4829,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: 10}
+        - {x: -10, y: 7}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 15}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_235
       rect:
         serializedVersion: 2
@@ -2657,7 +4849,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -9, y: 5}
+        - {x: -8, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 3}
+        - {x: 5, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_236
       rect:
         serializedVersion: 2
@@ -2668,7 +4867,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -9, y: 5}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 5}
+        - {x: 5, y: 13}
+        - {x: 4, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_237
       rect:
         serializedVersion: 2
@@ -2679,7 +4886,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 10}
+        - {x: 5, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_238
       rect:
         serializedVersion: 2
@@ -2690,7 +4905,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 8}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 5, y: 7}
+        - {x: 5, y: 14}
+        - {x: 3, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_239
       rect:
         serializedVersion: 2
@@ -2701,7 +4925,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 7}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 5, y: 6}
+        - {x: 5, y: 14}
+        - {x: 4, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_240
       rect:
         serializedVersion: 2
@@ -2712,7 +4945,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -12, y: 22}
+        - {x: -13, y: 21}
+        - {x: -13, y: 15}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 12}
+        - {x: 6, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_241
       rect:
         serializedVersion: 2
@@ -2723,7 +4966,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -10, y: 10}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 14}
+        - {x: -4, y: 20}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_242
       rect:
         serializedVersion: 2
@@ -2734,7 +4985,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 11}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_243
       rect:
         serializedVersion: 2
@@ -2745,7 +5004,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -10, y: 14}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 11}
+        - {x: 8, y: 15}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_244
       rect:
         serializedVersion: 2
@@ -2756,7 +5023,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -1, y: 17}
+        - {x: -5, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: 5}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 6, y: 1}
+        - {x: 8, y: 10}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_245
       rect:
         serializedVersion: 2
@@ -2767,7 +5045,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 7}
+        - {x: -7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 15}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_246
       rect:
         serializedVersion: 2
@@ -2778,7 +5064,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 11}
+        - {x: 5, y: 12}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_247
       rect:
         serializedVersion: 2
@@ -2789,7 +5081,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -9, y: 14}
+        - {x: -9, y: 1}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 2}
+        - {x: 9, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_248
       rect:
         serializedVersion: 2
@@ -2800,7 +5100,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -10, y: 17}
+        - {x: -10, y: 0}
+        - {x: 5, y: 0}
+        - {x: 8, y: 1}
+        - {x: 8, y: 18}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_249
       rect:
         serializedVersion: 2
@@ -2811,7 +5118,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 5, y: 17}
+        - {x: -6, y: 17}
+        - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 14}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_250
       rect:
         serializedVersion: 2
@@ -2822,7 +5136,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -10, y: 16}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 5}
+        - {x: 8, y: 15}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_251
       rect:
         serializedVersion: 2
@@ -2833,7 +5155,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 3}
+        - {x: 8, y: 15}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_252
       rect:
         serializedVersion: 2
@@ -2844,7 +5173,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 8, y: 7}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_253
       rect:
         serializedVersion: 2
@@ -2855,7 +5192,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 14}
+        - {x: -10, y: 6}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 3}
+        - {x: 9, y: 13}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_254
       rect:
         serializedVersion: 2
@@ -2866,7 +5212,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 12}
+        - {x: 8, y: 16}
+      tessellationDetail: -1
     - name: r2c_male_outfit_warrior_255
       rect:
         serializedVersion: 2
@@ -2877,7 +5231,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: 5}
+        - {x: -8, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 7}
+        - {x: 9, y: 14}
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 

@@ -27,6 +27,7 @@ GameObject:
   - 4: {fileID: 404188}
   - 50: {fileID: 5005672}
   - 114: {fileID: 11463038}
+  - 114: {fileID: 11425402}
   m_Layer: 0
   m_Name: Wife
   m_TagString: Untagged
@@ -41,7 +42,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 154872}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -2.71, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 439296}
@@ -54,7 +55,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 152202}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.42, y: -1.46, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 404188}
@@ -93,6 +94,39 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11425402
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1064669607, guid: fe4afebfd852d447f8eb311e9fb27fe2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sampleMode: 1
+  showPosition: 1
+  showPosition_x: 1
+  showPosition_y: 1
+  positionMode: 2
+  positionMin: Infinity
+  positionMax: -Infinity
+  showRotation: 0
+  rotationClamp: 1
+  rotationMode: 1
+  rotationMin: 0
+  rotationMax: 360
+  showVelocity: 1
+  showVelocity_x: 1
+  showVelocity_y: 1
+  velocityMode: 2
+  velocityMin: Infinity
+  velocityMax: -Infinity
+  showAngularVelocity: 0
+  angularVelocityMode: 2
+  angularVelocityMin: Infinity
+  angularVelocityMax: -Infinity
 --- !u!114 &11463038
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -104,6 +138,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8df69f63d06184b5695d13a459953cb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  minAnimationSpeed: 0.05
+  maxSpeed: 100
+  deathDuration: 1
+  stunnedDuration: 1
 --- !u!212 &21258562
 SpriteRenderer:
   m_ObjectHideFlags: 1

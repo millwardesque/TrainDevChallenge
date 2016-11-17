@@ -7,6 +7,7 @@ public class ArmySpawner : MonoBehaviour {
 	public Vector2 marchDirection;
 	public Soldier soldierPrefab;
 	public float respawnTime;
+	public float marchSpeed = 100f;
 
 	public Rect spawnArea;
 

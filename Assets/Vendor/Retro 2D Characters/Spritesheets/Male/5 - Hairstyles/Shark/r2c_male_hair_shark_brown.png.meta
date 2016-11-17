@@ -10,7 +10,263 @@ labels:
 - RPG
 - Spritesheet
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: r2c_male_hair_shark_brown_0
+    21300002: r2c_male_hair_shark_brown_1
+    21300004: r2c_male_hair_shark_brown_2
+    21300006: r2c_male_hair_shark_brown_3
+    21300008: r2c_male_hair_shark_brown_4
+    21300010: r2c_male_hair_shark_brown_5
+    21300012: r2c_male_hair_shark_brown_6
+    21300014: r2c_male_hair_shark_brown_7
+    21300016: r2c_male_hair_shark_brown_8
+    21300018: r2c_male_hair_shark_brown_9
+    21300020: r2c_male_hair_shark_brown_10
+    21300022: r2c_male_hair_shark_brown_11
+    21300024: r2c_male_hair_shark_brown_12
+    21300026: r2c_male_hair_shark_brown_13
+    21300028: r2c_male_hair_shark_brown_14
+    21300030: r2c_male_hair_shark_brown_15
+    21300032: r2c_male_hair_shark_brown_16
+    21300034: r2c_male_hair_shark_brown_17
+    21300036: r2c_male_hair_shark_brown_18
+    21300038: r2c_male_hair_shark_brown_19
+    21300040: r2c_male_hair_shark_brown_20
+    21300042: r2c_male_hair_shark_brown_21
+    21300044: r2c_male_hair_shark_brown_22
+    21300046: r2c_male_hair_shark_brown_23
+    21300048: r2c_male_hair_shark_brown_24
+    21300050: r2c_male_hair_shark_brown_25
+    21300052: r2c_male_hair_shark_brown_26
+    21300054: r2c_male_hair_shark_brown_27
+    21300056: r2c_male_hair_shark_brown_28
+    21300058: r2c_male_hair_shark_brown_29
+    21300060: r2c_male_hair_shark_brown_30
+    21300062: r2c_male_hair_shark_brown_31
+    21300064: r2c_male_hair_shark_brown_32
+    21300066: r2c_male_hair_shark_brown_33
+    21300068: r2c_male_hair_shark_brown_34
+    21300070: r2c_male_hair_shark_brown_35
+    21300072: r2c_male_hair_shark_brown_36
+    21300074: r2c_male_hair_shark_brown_37
+    21300076: r2c_male_hair_shark_brown_38
+    21300078: r2c_male_hair_shark_brown_39
+    21300080: r2c_male_hair_shark_brown_40
+    21300082: r2c_male_hair_shark_brown_41
+    21300084: r2c_male_hair_shark_brown_42
+    21300086: r2c_male_hair_shark_brown_43
+    21300088: r2c_male_hair_shark_brown_44
+    21300090: r2c_male_hair_shark_brown_45
+    21300092: r2c_male_hair_shark_brown_46
+    21300094: r2c_male_hair_shark_brown_47
+    21300096: r2c_male_hair_shark_brown_48
+    21300098: r2c_male_hair_shark_brown_49
+    21300100: r2c_male_hair_shark_brown_50
+    21300102: r2c_male_hair_shark_brown_51
+    21300104: r2c_male_hair_shark_brown_52
+    21300106: r2c_male_hair_shark_brown_53
+    21300108: r2c_male_hair_shark_brown_54
+    21300110: r2c_male_hair_shark_brown_55
+    21300112: r2c_male_hair_shark_brown_56
+    21300114: r2c_male_hair_shark_brown_57
+    21300116: r2c_male_hair_shark_brown_58
+    21300118: r2c_male_hair_shark_brown_59
+    21300120: r2c_male_hair_shark_brown_60
+    21300122: r2c_male_hair_shark_brown_61
+    21300124: r2c_male_hair_shark_brown_62
+    21300126: r2c_male_hair_shark_brown_63
+    21300128: r2c_male_hair_shark_brown_64
+    21300130: r2c_male_hair_shark_brown_65
+    21300132: r2c_male_hair_shark_brown_66
+    21300134: r2c_male_hair_shark_brown_67
+    21300136: r2c_male_hair_shark_brown_68
+    21300138: r2c_male_hair_shark_brown_69
+    21300140: r2c_male_hair_shark_brown_70
+    21300142: r2c_male_hair_shark_brown_71
+    21300144: r2c_male_hair_shark_brown_72
+    21300146: r2c_male_hair_shark_brown_73
+    21300148: r2c_male_hair_shark_brown_74
+    21300150: r2c_male_hair_shark_brown_75
+    21300152: r2c_male_hair_shark_brown_76
+    21300154: r2c_male_hair_shark_brown_77
+    21300156: r2c_male_hair_shark_brown_78
+    21300158: r2c_male_hair_shark_brown_79
+    21300160: r2c_male_hair_shark_brown_80
+    21300162: r2c_male_hair_shark_brown_81
+    21300164: r2c_male_hair_shark_brown_82
+    21300166: r2c_male_hair_shark_brown_83
+    21300168: r2c_male_hair_shark_brown_84
+    21300170: r2c_male_hair_shark_brown_85
+    21300172: r2c_male_hair_shark_brown_86
+    21300174: r2c_male_hair_shark_brown_87
+    21300176: r2c_male_hair_shark_brown_88
+    21300178: r2c_male_hair_shark_brown_89
+    21300180: r2c_male_hair_shark_brown_90
+    21300182: r2c_male_hair_shark_brown_91
+    21300184: r2c_male_hair_shark_brown_92
+    21300186: r2c_male_hair_shark_brown_93
+    21300188: r2c_male_hair_shark_brown_94
+    21300190: r2c_male_hair_shark_brown_95
+    21300192: r2c_male_hair_shark_brown_96
+    21300194: r2c_male_hair_shark_brown_97
+    21300196: r2c_male_hair_shark_brown_98
+    21300198: r2c_male_hair_shark_brown_99
+    21300200: r2c_male_hair_shark_brown_100
+    21300202: r2c_male_hair_shark_brown_101
+    21300204: r2c_male_hair_shark_brown_102
+    21300206: r2c_male_hair_shark_brown_103
+    21300208: r2c_male_hair_shark_brown_104
+    21300210: r2c_male_hair_shark_brown_105
+    21300212: r2c_male_hair_shark_brown_106
+    21300214: r2c_male_hair_shark_brown_107
+    21300216: r2c_male_hair_shark_brown_108
+    21300218: r2c_male_hair_shark_brown_109
+    21300220: r2c_male_hair_shark_brown_110
+    21300222: r2c_male_hair_shark_brown_111
+    21300224: r2c_male_hair_shark_brown_112
+    21300226: r2c_male_hair_shark_brown_113
+    21300228: r2c_male_hair_shark_brown_114
+    21300230: r2c_male_hair_shark_brown_115
+    21300232: r2c_male_hair_shark_brown_116
+    21300234: r2c_male_hair_shark_brown_117
+    21300236: r2c_male_hair_shark_brown_118
+    21300238: r2c_male_hair_shark_brown_119
+    21300240: r2c_male_hair_shark_brown_120
+    21300242: r2c_male_hair_shark_brown_121
+    21300244: r2c_male_hair_shark_brown_122
+    21300246: r2c_male_hair_shark_brown_123
+    21300248: r2c_male_hair_shark_brown_124
+    21300250: r2c_male_hair_shark_brown_125
+    21300252: r2c_male_hair_shark_brown_126
+    21300254: r2c_male_hair_shark_brown_127
+    21300256: r2c_male_hair_shark_brown_128
+    21300258: r2c_male_hair_shark_brown_129
+    21300260: r2c_male_hair_shark_brown_130
+    21300262: r2c_male_hair_shark_brown_131
+    21300264: r2c_male_hair_shark_brown_132
+    21300266: r2c_male_hair_shark_brown_133
+    21300268: r2c_male_hair_shark_brown_134
+    21300270: r2c_male_hair_shark_brown_135
+    21300272: r2c_male_hair_shark_brown_136
+    21300274: r2c_male_hair_shark_brown_137
+    21300276: r2c_male_hair_shark_brown_138
+    21300278: r2c_male_hair_shark_brown_139
+    21300280: r2c_male_hair_shark_brown_140
+    21300282: r2c_male_hair_shark_brown_141
+    21300284: r2c_male_hair_shark_brown_142
+    21300286: r2c_male_hair_shark_brown_143
+    21300288: r2c_male_hair_shark_brown_144
+    21300290: r2c_male_hair_shark_brown_145
+    21300292: r2c_male_hair_shark_brown_146
+    21300294: r2c_male_hair_shark_brown_147
+    21300296: r2c_male_hair_shark_brown_148
+    21300298: r2c_male_hair_shark_brown_149
+    21300300: r2c_male_hair_shark_brown_150
+    21300302: r2c_male_hair_shark_brown_151
+    21300304: r2c_male_hair_shark_brown_152
+    21300306: r2c_male_hair_shark_brown_153
+    21300308: r2c_male_hair_shark_brown_154
+    21300310: r2c_male_hair_shark_brown_155
+    21300312: r2c_male_hair_shark_brown_156
+    21300314: r2c_male_hair_shark_brown_157
+    21300316: r2c_male_hair_shark_brown_158
+    21300318: r2c_male_hair_shark_brown_159
+    21300320: r2c_male_hair_shark_brown_160
+    21300322: r2c_male_hair_shark_brown_161
+    21300324: r2c_male_hair_shark_brown_162
+    21300326: r2c_male_hair_shark_brown_163
+    21300328: r2c_male_hair_shark_brown_164
+    21300330: r2c_male_hair_shark_brown_165
+    21300332: r2c_male_hair_shark_brown_166
+    21300334: r2c_male_hair_shark_brown_167
+    21300336: r2c_male_hair_shark_brown_168
+    21300338: r2c_male_hair_shark_brown_169
+    21300340: r2c_male_hair_shark_brown_170
+    21300342: r2c_male_hair_shark_brown_171
+    21300344: r2c_male_hair_shark_brown_172
+    21300346: r2c_male_hair_shark_brown_173
+    21300348: r2c_male_hair_shark_brown_174
+    21300350: r2c_male_hair_shark_brown_175
+    21300352: r2c_male_hair_shark_brown_176
+    21300354: r2c_male_hair_shark_brown_177
+    21300356: r2c_male_hair_shark_brown_178
+    21300358: r2c_male_hair_shark_brown_179
+    21300360: r2c_male_hair_shark_brown_180
+    21300362: r2c_male_hair_shark_brown_181
+    21300364: r2c_male_hair_shark_brown_182
+    21300366: r2c_male_hair_shark_brown_183
+    21300368: r2c_male_hair_shark_brown_184
+    21300370: r2c_male_hair_shark_brown_185
+    21300372: r2c_male_hair_shark_brown_186
+    21300374: r2c_male_hair_shark_brown_187
+    21300376: r2c_male_hair_shark_brown_188
+    21300378: r2c_male_hair_shark_brown_189
+    21300380: r2c_male_hair_shark_brown_190
+    21300382: r2c_male_hair_shark_brown_191
+    21300384: r2c_male_hair_shark_brown_192
+    21300386: r2c_male_hair_shark_brown_193
+    21300388: r2c_male_hair_shark_brown_194
+    21300390: r2c_male_hair_shark_brown_195
+    21300392: r2c_male_hair_shark_brown_196
+    21300394: r2c_male_hair_shark_brown_197
+    21300396: r2c_male_hair_shark_brown_198
+    21300398: r2c_male_hair_shark_brown_199
+    21300400: r2c_male_hair_shark_brown_200
+    21300402: r2c_male_hair_shark_brown_201
+    21300404: r2c_male_hair_shark_brown_202
+    21300406: r2c_male_hair_shark_brown_203
+    21300408: r2c_male_hair_shark_brown_204
+    21300410: r2c_male_hair_shark_brown_205
+    21300412: r2c_male_hair_shark_brown_206
+    21300414: r2c_male_hair_shark_brown_207
+    21300416: r2c_male_hair_shark_brown_208
+    21300418: r2c_male_hair_shark_brown_209
+    21300420: r2c_male_hair_shark_brown_210
+    21300422: r2c_male_hair_shark_brown_211
+    21300424: r2c_male_hair_shark_brown_212
+    21300426: r2c_male_hair_shark_brown_213
+    21300428: r2c_male_hair_shark_brown_214
+    21300430: r2c_male_hair_shark_brown_215
+    21300432: r2c_male_hair_shark_brown_216
+    21300434: r2c_male_hair_shark_brown_217
+    21300436: r2c_male_hair_shark_brown_218
+    21300438: r2c_male_hair_shark_brown_219
+    21300440: r2c_male_hair_shark_brown_220
+    21300442: r2c_male_hair_shark_brown_221
+    21300444: r2c_male_hair_shark_brown_222
+    21300446: r2c_male_hair_shark_brown_223
+    21300448: r2c_male_hair_shark_brown_224
+    21300450: r2c_male_hair_shark_brown_225
+    21300452: r2c_male_hair_shark_brown_226
+    21300454: r2c_male_hair_shark_brown_227
+    21300456: r2c_male_hair_shark_brown_228
+    21300458: r2c_male_hair_shark_brown_229
+    21300460: r2c_male_hair_shark_brown_230
+    21300462: r2c_male_hair_shark_brown_231
+    21300464: r2c_male_hair_shark_brown_232
+    21300466: r2c_male_hair_shark_brown_233
+    21300468: r2c_male_hair_shark_brown_234
+    21300470: r2c_male_hair_shark_brown_235
+    21300472: r2c_male_hair_shark_brown_236
+    21300474: r2c_male_hair_shark_brown_237
+    21300476: r2c_male_hair_shark_brown_238
+    21300478: r2c_male_hair_shark_brown_239
+    21300480: r2c_male_hair_shark_brown_240
+    21300482: r2c_male_hair_shark_brown_241
+    21300484: r2c_male_hair_shark_brown_242
+    21300486: r2c_male_hair_shark_brown_243
+    21300488: r2c_male_hair_shark_brown_244
+    21300490: r2c_male_hair_shark_brown_245
+    21300492: r2c_male_hair_shark_brown_246
+    21300494: r2c_male_hair_shark_brown_247
+    21300496: r2c_male_hair_shark_brown_248
+    21300498: r2c_male_hair_shark_brown_249
+    21300500: r2c_male_hair_shark_brown_250
+    21300502: r2c_male_hair_shark_brown_251
+    21300504: r2c_male_hair_shark_brown_252
+    21300506: r2c_male_hair_shark_brown_253
+    21300508: r2c_male_hair_shark_brown_254
+    21300510: r2c_male_hair_shark_brown_255
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,6 +309,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 32
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings:
   - buildTarget: iPhone
@@ -72,7 +329,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_1
       rect:
         serializedVersion: 2
@@ -83,7 +349,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_2
       rect:
         serializedVersion: 2
@@ -94,7 +369,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_3
       rect:
         serializedVersion: 2
@@ -105,7 +389,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_4
       rect:
         serializedVersion: 2
@@ -116,7 +409,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_5
       rect:
         serializedVersion: 2
@@ -127,7 +429,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_6
       rect:
         serializedVersion: 2
@@ -138,7 +449,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -7, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 23}
+        - {x: 7, y: 32}
+        - {x: -4, y: 32}
+        - {x: -11, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_7
       rect:
         serializedVersion: 2
@@ -149,7 +468,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -7, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 23}
+        - {x: 7, y: 32}
+        - {x: -4, y: 32}
+        - {x: -11, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_8
       rect:
         serializedVersion: 2
@@ -160,7 +487,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_9
       rect:
         serializedVersion: 2
@@ -171,7 +507,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_10
       rect:
         serializedVersion: 2
@@ -182,7 +527,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -10, y: 28}
+        - {x: -11, y: 25}
+        - {x: -11, y: 21}
+        - {x: -7, y: 16}
+        - {x: -2, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_11
       rect:
         serializedVersion: 2
@@ -193,7 +548,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -11, y: 27}
+        - {x: -11, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 30}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_12
       rect:
         serializedVersion: 2
@@ -204,7 +566,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -10, y: 28}
+        - {x: -11, y: 25}
+        - {x: -11, y: 21}
+        - {x: -7, y: 16}
+        - {x: -2, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_13
       rect:
         serializedVersion: 2
@@ -215,7 +587,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 18}
+        - {x: -10, y: 15}
+        - {x: 10, y: 15}
+        - {x: 10, y: 28}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_14
       rect:
         serializedVersion: 2
@@ -226,7 +606,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -7, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_15
       rect:
         serializedVersion: 2
@@ -237,7 +625,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_16
       rect:
         serializedVersion: 2
@@ -248,7 +645,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_17
       rect:
         serializedVersion: 2
@@ -259,7 +667,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_18
       rect:
         serializedVersion: 2
@@ -270,7 +687,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_19
       rect:
         serializedVersion: 2
@@ -281,7 +707,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_20
       rect:
         serializedVersion: 2
@@ -292,7 +729,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_21
       rect:
         serializedVersion: 2
@@ -303,7 +749,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_22
       rect:
         serializedVersion: 2
@@ -314,7 +769,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_23
       rect:
         serializedVersion: 2
@@ -325,7 +789,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_24
       rect:
         serializedVersion: 2
@@ -336,7 +809,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_25
       rect:
         serializedVersion: 2
@@ -347,7 +831,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -7, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 21}
+        - {x: -10, y: 18}
+        - {x: -5, y: 12}
+        - {x: -2, y: 13}
+        - {x: 10, y: 14}
+        - {x: 11, y: 19}
+        - {x: 11, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_26
       rect:
         serializedVersion: 2
@@ -358,7 +853,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 15}
+        - {x: -8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_27
       rect:
         serializedVersion: 2
@@ -369,7 +873,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 19}
+        - {x: -9, y: 14}
+        - {x: 10, y: 14}
+        - {x: 11, y: 17}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_28
       rect:
         serializedVersion: 2
@@ -380,7 +893,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 15}
+        - {x: -8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_29
       rect:
         serializedVersion: 2
@@ -391,7 +913,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 17}
+        - {x: -8, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_30
       rect:
         serializedVersion: 2
@@ -402,7 +934,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_31
       rect:
         serializedVersion: 2
@@ -413,7 +954,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_32
       rect:
         serializedVersion: 2
@@ -424,7 +976,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_33
       rect:
         serializedVersion: 2
@@ -435,7 +994,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_34
       rect:
         serializedVersion: 2
@@ -446,7 +1016,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_35
       rect:
         serializedVersion: 2
@@ -457,7 +1038,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_36
       rect:
         serializedVersion: 2
@@ -468,7 +1056,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_37
       rect:
         serializedVersion: 2
@@ -479,7 +1078,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_38
       rect:
         serializedVersion: 2
@@ -490,7 +1100,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_39
       rect:
         serializedVersion: 2
@@ -501,7 +1122,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_40
       rect:
         serializedVersion: 2
@@ -512,7 +1144,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_41
       rect:
         serializedVersion: 2
@@ -523,7 +1162,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 20}
+        - {x: -10, y: 14}
+        - {x: 0, y: 12}
+        - {x: 6, y: 12}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_42
       rect:
         serializedVersion: 2
@@ -534,7 +1183,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 5, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_43
       rect:
         serializedVersion: 2
@@ -545,7 +1203,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 15}
+        - {x: -11, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 30}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_44
       rect:
         serializedVersion: 2
@@ -556,7 +1222,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 5, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_45
       rect:
         serializedVersion: 2
@@ -567,7 +1242,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 3, y: 12}
+        - {x: 5, y: 12}
+        - {x: 9, y: 15}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_46
       rect:
         serializedVersion: 2
@@ -578,7 +1264,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 18}
+        - {x: 10, y: 25}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_47
       rect:
         serializedVersion: 2
@@ -589,7 +1284,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_48
       rect:
         serializedVersion: 2
@@ -600,7 +1302,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_49
       rect:
         serializedVersion: 2
@@ -611,7 +1322,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_50
       rect:
         serializedVersion: 2
@@ -622,7 +1342,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_51
       rect:
         serializedVersion: 2
@@ -633,7 +1362,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_52
       rect:
         serializedVersion: 2
@@ -644,7 +1382,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_53
       rect:
         serializedVersion: 2
@@ -655,7 +1402,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_54
       rect:
         serializedVersion: 2
@@ -666,7 +1422,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: 8, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 29}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_55
       rect:
         serializedVersion: 2
@@ -677,7 +1441,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: 8, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 29}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_56
       rect:
         serializedVersion: 2
@@ -688,7 +1460,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_57
       rect:
         serializedVersion: 2
@@ -699,7 +1480,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_58
       rect:
         serializedVersion: 2
@@ -710,7 +1500,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 14}
+        - {x: -1, y: 14}
+        - {x: 10, y: 18}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_59
       rect:
         serializedVersion: 2
@@ -721,7 +1519,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 15}
+        - {x: 0, y: 15}
+        - {x: 4, y: 16}
+        - {x: 9, y: 18}
+        - {x: 10, y: 21}
+        - {x: 10, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_60
       rect:
         serializedVersion: 2
@@ -732,7 +1540,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 14}
+        - {x: -1, y: 14}
+        - {x: 10, y: 18}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_61
       rect:
         serializedVersion: 2
@@ -743,7 +1559,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 15}
+        - {x: -9, y: 13}
+        - {x: 3, y: 13}
+        - {x: 10, y: 16}
+        - {x: 10, y: 27}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_62
       rect:
         serializedVersion: 2
@@ -754,7 +1579,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -8, y: 13}
+        - {x: 2, y: 13}
+        - {x: 8, y: 16}
+        - {x: 10, y: 20}
+        - {x: 10, y: 28}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_63
       rect:
         serializedVersion: 2
@@ -765,7 +1600,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 17}
+        - {x: 1, y: 15}
+        - {x: 0, y: 7}
+        - {x: 0, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 1}
+        - {x: 16, y: 14}
+        - {x: 15, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_64
       rect:
         serializedVersion: 2
@@ -776,7 +1620,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_65
       rect:
         serializedVersion: 2
@@ -787,7 +1640,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_66
       rect:
         serializedVersion: 2
@@ -798,7 +1660,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 31}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -9, y: 14}
+        - {x: -5, y: 13}
+        - {x: 11, y: 13}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_67
       rect:
         serializedVersion: 2
@@ -809,7 +1680,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 31}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -9, y: 14}
+        - {x: -5, y: 13}
+        - {x: 11, y: 13}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_68
       rect:
         serializedVersion: 2
@@ -820,7 +1700,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_69
       rect:
         serializedVersion: 2
@@ -831,7 +1720,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -10, y: 29}
+        - {x: -12, y: 26}
+        - {x: -12, y: 23}
+        - {x: -9, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 28}
+        - {x: 4, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_70
       rect:
         serializedVersion: 2
@@ -842,7 +1740,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 29}
+        - {x: -11, y: 24}
+        - {x: -11, y: 16}
+        - {x: -9, y: 12}
+        - {x: -5, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: 25}
+        - {x: 3, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_71
       rect:
         serializedVersion: 2
@@ -853,7 +1760,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -8, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 27}
+        - {x: 7, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_72
       rect:
         serializedVersion: 2
@@ -864,7 +1779,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_73
       rect:
         serializedVersion: 2
@@ -875,7 +1799,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_74
       rect:
         serializedVersion: 2
@@ -886,7 +1819,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_75
       rect:
         serializedVersion: 2
@@ -897,7 +1839,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_76
       rect:
         serializedVersion: 2
@@ -908,7 +1859,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_77
       rect:
         serializedVersion: 2
@@ -919,7 +1879,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -7, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_78
       rect:
         serializedVersion: 2
@@ -930,7 +1898,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -10, y: 28}
+        - {x: -11, y: 25}
+        - {x: -11, y: 21}
+        - {x: -7, y: 16}
+        - {x: -2, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_79
       rect:
         serializedVersion: 2
@@ -941,7 +1919,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_80
       rect:
         serializedVersion: 2
@@ -952,7 +1939,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -11, y: 31}
+        - {x: -11, y: 14}
+        - {x: -9, y: 12}
+        - {x: 10, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_81
       rect:
         serializedVersion: 2
@@ -963,7 +1959,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_82
       rect:
         serializedVersion: 2
@@ -974,7 +1981,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 31}
+        - {x: -11, y: 26}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: 24}
+        - {x: 8, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_83
       rect:
         serializedVersion: 2
@@ -985,7 +1999,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 31}
+        - {x: -11, y: 26}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: 24}
+        - {x: 8, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_84
       rect:
         serializedVersion: 2
@@ -996,7 +2017,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_85
       rect:
         serializedVersion: 2
@@ -1007,7 +2039,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 15}
+        - {x: -5, y: 11}
+        - {x: 5, y: 11}
+        - {x: 12, y: 15}
+        - {x: 12, y: 26}
+        - {x: 2, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_86
       rect:
         serializedVersion: 2
@@ -1018,7 +2059,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 29}
+        - {x: -11, y: 24}
+        - {x: -11, y: 8}
+        - {x: 11, y: 8}
+        - {x: 11, y: 23}
+        - {x: 9, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_87
       rect:
         serializedVersion: 2
@@ -1029,7 +2077,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_88
       rect:
         serializedVersion: 2
@@ -1040,7 +2099,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_89
       rect:
         serializedVersion: 2
@@ -1051,7 +2119,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_90
       rect:
         serializedVersion: 2
@@ -1062,7 +2141,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_91
       rect:
         serializedVersion: 2
@@ -1073,7 +2163,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_92
       rect:
         serializedVersion: 2
@@ -1084,7 +2185,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_93
       rect:
         serializedVersion: 2
@@ -1095,7 +2207,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_94
       rect:
         serializedVersion: 2
@@ -1106,7 +2227,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 15}
+        - {x: -8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_95
       rect:
         serializedVersion: 2
@@ -1117,7 +2247,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_96
       rect:
         serializedVersion: 2
@@ -1128,7 +2269,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 15}
+        - {x: -10, y: 14}
+        - {x: 1, y: 12}
+        - {x: 5, y: 12}
+        - {x: 9, y: 15}
+        - {x: 10, y: 19}
+        - {x: 10, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_97
       rect:
         serializedVersion: 2
@@ -1139,7 +2289,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_98
       rect:
         serializedVersion: 2
@@ -1150,7 +2307,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 31}
+        - {x: -5, y: 31}
+        - {x: -12, y: 25}
+        - {x: -12, y: 16}
+        - {x: -10, y: 11}
+        - {x: 3, y: 10}
+        - {x: 5, y: 10}
+        - {x: 9, y: 13}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_99
       rect:
         serializedVersion: 2
@@ -1161,7 +2329,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 31}
+        - {x: -5, y: 31}
+        - {x: -12, y: 25}
+        - {x: -12, y: 16}
+        - {x: -10, y: 11}
+        - {x: 3, y: 10}
+        - {x: 5, y: 10}
+        - {x: 9, y: 13}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_100
       rect:
         serializedVersion: 2
@@ -1172,7 +2351,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_101
       rect:
         serializedVersion: 2
@@ -1183,7 +2369,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -8, y: 32}
+        - {x: -13, y: 26}
+        - {x: -13, y: 13}
+        - {x: -9, y: 11}
+        - {x: 9, y: 11}
+        - {x: 11, y: 17}
+        - {x: 11, y: 23}
+        - {x: 10, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_102
       rect:
         serializedVersion: 2
@@ -1194,7 +2390,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 29}
+        - {x: -2, y: 29}
+        - {x: -12, y: 27}
+        - {x: -12, y: 10}
+        - {x: -10, y: 8}
+        - {x: 9, y: 8}
+        - {x: 10, y: 10}
+        - {x: 10, y: 23}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_103
       rect:
         serializedVersion: 2
@@ -1205,7 +2410,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 18}
+        - {x: 10, y: 25}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_104
       rect:
         serializedVersion: 2
@@ -1216,7 +2430,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_105
       rect:
         serializedVersion: 2
@@ -1227,7 +2448,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_106
       rect:
         serializedVersion: 2
@@ -1238,7 +2466,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_107
       rect:
         serializedVersion: 2
@@ -1249,7 +2484,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_108
       rect:
         serializedVersion: 2
@@ -1260,7 +2502,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_109
       rect:
         serializedVersion: 2
@@ -1271,7 +2520,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 18}
+        - {x: 10, y: 25}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_110
       rect:
         serializedVersion: 2
@@ -1282,7 +2540,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 5, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_111
       rect:
         serializedVersion: 2
@@ -1293,7 +2560,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_112
       rect:
         serializedVersion: 2
@@ -1304,7 +2578,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 15}
+        - {x: -7, y: 13}
+        - {x: 7, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_113
       rect:
         serializedVersion: 2
@@ -1315,7 +2598,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_114
       rect:
         serializedVersion: 2
@@ -1326,7 +2618,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -12, y: 24}
+        - {x: -12, y: 12}
+        - {x: -7, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+        - {x: 4, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_115
       rect:
         serializedVersion: 2
@@ -1337,7 +2638,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -12, y: 24}
+        - {x: -12, y: 12}
+        - {x: -7, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+        - {x: 4, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_116
       rect:
         serializedVersion: 2
@@ -1348,7 +2658,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_117
       rect:
         serializedVersion: 2
@@ -1359,7 +2678,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -8, y: 30}
+        - {x: -12, y: 24}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 0, y: 13}
+        - {x: 9, y: 17}
+        - {x: 11, y: 20}
+        - {x: 11, y: 24}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_118
       rect:
         serializedVersion: 2
@@ -1370,7 +2700,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 29}
+        - {x: -12, y: 22}
+        - {x: -12, y: 10}
+        - {x: -7, y: 9}
+        - {x: 6, y: 9}
+        - {x: 10, y: 15}
+        - {x: 10, y: 23}
+        - {x: 4, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_119
       rect:
         serializedVersion: 2
@@ -1381,7 +2720,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 15}
+        - {x: -9, y: 13}
+        - {x: 3, y: 13}
+        - {x: 10, y: 16}
+        - {x: 10, y: 27}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_120
       rect:
         serializedVersion: 2
@@ -1392,7 +2740,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_121
       rect:
         serializedVersion: 2
@@ -1403,7 +2760,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_122
       rect:
         serializedVersion: 2
@@ -1414,7 +2780,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_123
       rect:
         serializedVersion: 2
@@ -1425,7 +2800,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_124
       rect:
         serializedVersion: 2
@@ -1436,7 +2820,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_125
       rect:
         serializedVersion: 2
@@ -1447,7 +2840,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -8, y: 13}
+        - {x: 2, y: 13}
+        - {x: 8, y: 16}
+        - {x: 10, y: 20}
+        - {x: 10, y: 28}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_126
       rect:
         serializedVersion: 2
@@ -1458,7 +2861,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 14}
+        - {x: -1, y: 14}
+        - {x: 10, y: 18}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_127
       rect:
         serializedVersion: 2
@@ -1469,7 +2880,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_128
       rect:
         serializedVersion: 2
@@ -1480,7 +2900,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_129
       rect:
         serializedVersion: 2
@@ -1491,7 +2920,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_130
       rect:
         serializedVersion: 2
@@ -1502,7 +2940,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_131
       rect:
         serializedVersion: 2
@@ -1513,7 +2960,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_132
       rect:
         serializedVersion: 2
@@ -1524,7 +2980,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_133
       rect:
         serializedVersion: 2
@@ -1535,7 +3000,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_134
       rect:
         serializedVersion: 2
@@ -1546,7 +3020,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -7, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 23}
+        - {x: 7, y: 32}
+        - {x: -4, y: 32}
+        - {x: -11, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_135
       rect:
         serializedVersion: 2
@@ -1557,7 +3039,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -7, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 23}
+        - {x: 7, y: 32}
+        - {x: -4, y: 32}
+        - {x: -11, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_136
       rect:
         serializedVersion: 2
@@ -1568,7 +3058,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_137
       rect:
         serializedVersion: 2
@@ -1579,7 +3078,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 20}
+        - {x: -10, y: 16}
+        - {x: 9, y: 16}
+        - {x: 11, y: 18}
+        - {x: 10, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_138
       rect:
         serializedVersion: 2
@@ -1590,7 +3098,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -10, y: 28}
+        - {x: -11, y: 25}
+        - {x: -11, y: 21}
+        - {x: -7, y: 16}
+        - {x: -2, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_139
       rect:
         serializedVersion: 2
@@ -1601,7 +3119,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -11, y: 27}
+        - {x: -11, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 30}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_140
       rect:
         serializedVersion: 2
@@ -1612,7 +3137,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -10, y: 28}
+        - {x: -11, y: 25}
+        - {x: -11, y: 21}
+        - {x: -7, y: 16}
+        - {x: -2, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_141
       rect:
         serializedVersion: 2
@@ -1623,7 +3158,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 18}
+        - {x: -10, y: 15}
+        - {x: 10, y: 15}
+        - {x: 10, y: 28}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_142
       rect:
         serializedVersion: 2
@@ -1634,7 +3177,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -7, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_143
       rect:
         serializedVersion: 2
@@ -1645,7 +3196,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_144
       rect:
         serializedVersion: 2
@@ -1656,7 +3216,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_145
       rect:
         serializedVersion: 2
@@ -1667,7 +3238,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_146
       rect:
         serializedVersion: 2
@@ -1678,7 +3258,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_147
       rect:
         serializedVersion: 2
@@ -1689,7 +3278,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_148
       rect:
         serializedVersion: 2
@@ -1700,7 +3300,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_149
       rect:
         serializedVersion: 2
@@ -1711,7 +3320,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_150
       rect:
         serializedVersion: 2
@@ -1722,7 +3340,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_151
       rect:
         serializedVersion: 2
@@ -1733,7 +3360,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -11, y: 32}
+        - {x: -11, y: 13}
+        - {x: -5, y: 11}
+        - {x: -2, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_152
       rect:
         serializedVersion: 2
@@ -1744,7 +3380,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_153
       rect:
         serializedVersion: 2
@@ -1755,7 +3402,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -7, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 21}
+        - {x: -10, y: 18}
+        - {x: -5, y: 12}
+        - {x: -2, y: 13}
+        - {x: 10, y: 14}
+        - {x: 11, y: 19}
+        - {x: 11, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_154
       rect:
         serializedVersion: 2
@@ -1766,7 +3424,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 15}
+        - {x: -8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_155
       rect:
         serializedVersion: 2
@@ -1777,7 +3444,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 19}
+        - {x: -9, y: 14}
+        - {x: 10, y: 14}
+        - {x: 11, y: 17}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_156
       rect:
         serializedVersion: 2
@@ -1788,7 +3464,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 15}
+        - {x: -8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_157
       rect:
         serializedVersion: 2
@@ -1799,7 +3484,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 17}
+        - {x: -8, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_158
       rect:
         serializedVersion: 2
@@ -1810,7 +3505,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_159
       rect:
         serializedVersion: 2
@@ -1821,7 +3525,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_160
       rect:
         serializedVersion: 2
@@ -1832,7 +3547,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_161
       rect:
         serializedVersion: 2
@@ -1843,7 +3565,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_162
       rect:
         serializedVersion: 2
@@ -1854,7 +3587,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_163
       rect:
         serializedVersion: 2
@@ -1865,7 +3609,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_164
       rect:
         serializedVersion: 2
@@ -1876,7 +3627,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_165
       rect:
         serializedVersion: 2
@@ -1887,7 +3649,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_166
       rect:
         serializedVersion: 2
@@ -1898,7 +3671,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_167
       rect:
         serializedVersion: 2
@@ -1909,7 +3693,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 18}
+        - {x: -10, y: 13}
+        - {x: -8, y: 15}
+        - {x: 1, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 14}
+        - {x: 10, y: 28}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_168
       rect:
         serializedVersion: 2
@@ -1920,7 +3715,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_169
       rect:
         serializedVersion: 2
@@ -1931,7 +3733,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 28}
+        - {x: -12, y: 20}
+        - {x: -10, y: 14}
+        - {x: 0, y: 12}
+        - {x: 6, y: 12}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_170
       rect:
         serializedVersion: 2
@@ -1942,7 +3754,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 5, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_171
       rect:
         serializedVersion: 2
@@ -1953,7 +3774,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 15}
+        - {x: -11, y: 14}
+        - {x: 10, y: 14}
+        - {x: 10, y: 30}
+        - {x: 8, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_172
       rect:
         serializedVersion: 2
@@ -1964,7 +3793,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 5, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_173
       rect:
         serializedVersion: 2
@@ -1975,7 +3813,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 3, y: 12}
+        - {x: 5, y: 12}
+        - {x: 9, y: 15}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_174
       rect:
         serializedVersion: 2
@@ -1986,7 +3835,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 18}
+        - {x: 10, y: 25}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_175
       rect:
         serializedVersion: 2
@@ -1997,7 +3855,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_176
       rect:
         serializedVersion: 2
@@ -2008,7 +3873,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_177
       rect:
         serializedVersion: 2
@@ -2019,7 +3893,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_178
       rect:
         serializedVersion: 2
@@ -2030,7 +3913,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_179
       rect:
         serializedVersion: 2
@@ -2041,7 +3933,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_180
       rect:
         serializedVersion: 2
@@ -2052,7 +3953,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_181
       rect:
         serializedVersion: 2
@@ -2063,7 +3973,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_182
       rect:
         serializedVersion: 2
@@ -2074,7 +3993,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: 8, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 29}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_183
       rect:
         serializedVersion: 2
@@ -2085,7 +4012,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 13}
+        - {x: 8, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 29}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_184
       rect:
         serializedVersion: 2
@@ -2096,7 +4031,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_185
       rect:
         serializedVersion: 2
@@ -2107,7 +4051,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -12, y: 24}
+        - {x: -12, y: 15}
+        - {x: -9, y: 14}
+        - {x: 2, y: 14}
+        - {x: 10, y: 17}
+        - {x: 10, y: 28}
+        - {x: 5, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_186
       rect:
         serializedVersion: 2
@@ -2118,7 +4071,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 14}
+        - {x: -1, y: 14}
+        - {x: 10, y: 18}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_187
       rect:
         serializedVersion: 2
@@ -2129,7 +4090,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 15}
+        - {x: 0, y: 15}
+        - {x: 4, y: 16}
+        - {x: 9, y: 18}
+        - {x: 10, y: 21}
+        - {x: 10, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_188
       rect:
         serializedVersion: 2
@@ -2140,7 +4111,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 14}
+        - {x: -1, y: 14}
+        - {x: 10, y: 18}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_189
       rect:
         serializedVersion: 2
@@ -2151,7 +4130,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 15}
+        - {x: -9, y: 13}
+        - {x: 3, y: 13}
+        - {x: 10, y: 16}
+        - {x: 10, y: 27}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_190
       rect:
         serializedVersion: 2
@@ -2162,7 +4150,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -8, y: 13}
+        - {x: 2, y: 13}
+        - {x: 8, y: 16}
+        - {x: 10, y: 20}
+        - {x: 10, y: 28}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_191
       rect:
         serializedVersion: 2
@@ -2173,7 +4171,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 6, y: 17}
+        - {x: 1, y: 15}
+        - {x: 0, y: 7}
+        - {x: 0, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 1}
+        - {x: 16, y: 14}
+        - {x: 15, y: 17}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_192
       rect:
         serializedVersion: 2
@@ -2184,7 +4191,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_193
       rect:
         serializedVersion: 2
@@ -2195,7 +4211,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_194
       rect:
         serializedVersion: 2
@@ -2206,7 +4231,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 31}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -9, y: 14}
+        - {x: -5, y: 13}
+        - {x: 11, y: 13}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_195
       rect:
         serializedVersion: 2
@@ -2217,7 +4251,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 31}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -9, y: 14}
+        - {x: -5, y: 13}
+        - {x: 11, y: 13}
+        - {x: 11, y: 26}
+        - {x: 6, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_196
       rect:
         serializedVersion: 2
@@ -2228,7 +4271,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_197
       rect:
         serializedVersion: 2
@@ -2239,7 +4291,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -10, y: 29}
+        - {x: -12, y: 26}
+        - {x: -12, y: 23}
+        - {x: -9, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 28}
+        - {x: 4, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_198
       rect:
         serializedVersion: 2
@@ -2250,7 +4311,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 29}
+        - {x: -11, y: 24}
+        - {x: -11, y: 16}
+        - {x: -9, y: 12}
+        - {x: -5, y: 11}
+        - {x: 11, y: 11}
+        - {x: 11, y: 25}
+        - {x: 3, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_199
       rect:
         serializedVersion: 2
@@ -2261,7 +4331,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -8, y: 16}
+        - {x: 10, y: 16}
+        - {x: 10, y: 27}
+        - {x: 7, y: 32}
+        - {x: -7, y: 32}
+        - {x: -12, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_200
       rect:
         serializedVersion: 2
@@ -2272,7 +4350,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_201
       rect:
         serializedVersion: 2
@@ -2283,7 +4370,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_202
       rect:
         serializedVersion: 2
@@ -2294,7 +4390,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_203
       rect:
         serializedVersion: 2
@@ -2305,7 +4410,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_204
       rect:
         serializedVersion: 2
@@ -2316,7 +4430,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_205
       rect:
         serializedVersion: 2
@@ -2327,7 +4450,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -7, y: 16}
+        - {x: 11, y: 16}
+        - {x: 11, y: 27}
+        - {x: 8, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_206
       rect:
         serializedVersion: 2
@@ -2338,7 +4469,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -10, y: 28}
+        - {x: -11, y: 25}
+        - {x: -11, y: 21}
+        - {x: -7, y: 16}
+        - {x: -2, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_207
       rect:
         serializedVersion: 2
@@ -2349,7 +4490,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 20}
+        - {x: -9, y: 17}
+        - {x: -1, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_208
       rect:
         serializedVersion: 2
@@ -2360,7 +4510,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -11, y: 31}
+        - {x: -11, y: 14}
+        - {x: -9, y: 12}
+        - {x: 10, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_209
       rect:
         serializedVersion: 2
@@ -2371,7 +4530,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_210
       rect:
         serializedVersion: 2
@@ -2382,7 +4552,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 31}
+        - {x: -11, y: 26}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: 24}
+        - {x: 8, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_211
       rect:
         serializedVersion: 2
@@ -2393,7 +4570,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 31}
+        - {x: -11, y: 26}
+        - {x: -11, y: 10}
+        - {x: 11, y: 10}
+        - {x: 11, y: 24}
+        - {x: 8, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_212
       rect:
         serializedVersion: 2
@@ -2404,7 +4588,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_213
       rect:
         serializedVersion: 2
@@ -2415,7 +4610,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 26}
+        - {x: -12, y: 15}
+        - {x: -5, y: 11}
+        - {x: 5, y: 11}
+        - {x: 12, y: 15}
+        - {x: 12, y: 26}
+        - {x: 2, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_214
       rect:
         serializedVersion: 2
@@ -2426,7 +4630,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 29}
+        - {x: -11, y: 24}
+        - {x: -11, y: 8}
+        - {x: 11, y: 8}
+        - {x: 11, y: 23}
+        - {x: 9, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_215
       rect:
         serializedVersion: 2
@@ -2437,7 +4648,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_216
       rect:
         serializedVersion: 2
@@ -2448,7 +4670,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_217
       rect:
         serializedVersion: 2
@@ -2459,7 +4690,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_218
       rect:
         serializedVersion: 2
@@ -2470,7 +4712,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_219
       rect:
         serializedVersion: 2
@@ -2481,7 +4734,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_220
       rect:
         serializedVersion: 2
@@ -2492,7 +4756,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_221
       rect:
         serializedVersion: 2
@@ -2503,7 +4778,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: 4, y: 12}
+        - {x: 11, y: 14}
+        - {x: 11, y: 29}
+        - {x: 9, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_222
       rect:
         serializedVersion: 2
@@ -2514,7 +4798,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -11, y: 30}
+        - {x: -11, y: 15}
+        - {x: -8, y: 13}
+        - {x: 10, y: 13}
+        - {x: 11, y: 19}
+        - {x: 11, y: 26}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_223
       rect:
         serializedVersion: 2
@@ -2525,7 +4818,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 9, y: 32}
+        - {x: -6, y: 32}
+        - {x: -11, y: 28}
+        - {x: -11, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 13}
+        - {x: 9, y: 14}
+        - {x: 11, y: 16}
+        - {x: 11, y: 26}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_224
       rect:
         serializedVersion: 2
@@ -2536,7 +4840,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -12, y: 15}
+        - {x: -10, y: 14}
+        - {x: 1, y: 12}
+        - {x: 5, y: 12}
+        - {x: 9, y: 15}
+        - {x: 10, y: 19}
+        - {x: 10, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_225
       rect:
         serializedVersion: 2
@@ -2547,7 +4860,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_226
       rect:
         serializedVersion: 2
@@ -2558,7 +4878,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 31}
+        - {x: -5, y: 31}
+        - {x: -12, y: 25}
+        - {x: -12, y: 16}
+        - {x: -10, y: 11}
+        - {x: 3, y: 10}
+        - {x: 5, y: 10}
+        - {x: 9, y: 13}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_227
       rect:
         serializedVersion: 2
@@ -2569,7 +4900,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 31}
+        - {x: -5, y: 31}
+        - {x: -12, y: 25}
+        - {x: -12, y: 16}
+        - {x: -10, y: 11}
+        - {x: 3, y: 10}
+        - {x: 5, y: 10}
+        - {x: 9, y: 13}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_228
       rect:
         serializedVersion: 2
@@ -2580,7 +4922,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_229
       rect:
         serializedVersion: 2
@@ -2591,7 +4940,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -8, y: 32}
+        - {x: -13, y: 26}
+        - {x: -13, y: 13}
+        - {x: -9, y: 11}
+        - {x: 9, y: 11}
+        - {x: 11, y: 17}
+        - {x: 11, y: 23}
+        - {x: 10, y: 27}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_230
       rect:
         serializedVersion: 2
@@ -2602,7 +4961,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 29}
+        - {x: -2, y: 29}
+        - {x: -12, y: 27}
+        - {x: -12, y: 10}
+        - {x: -10, y: 8}
+        - {x: 9, y: 8}
+        - {x: 10, y: 10}
+        - {x: 10, y: 23}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_231
       rect:
         serializedVersion: 2
@@ -2613,7 +4981,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 18}
+        - {x: 10, y: 25}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_232
       rect:
         serializedVersion: 2
@@ -2624,7 +5001,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_233
       rect:
         serializedVersion: 2
@@ -2635,7 +5019,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_234
       rect:
         serializedVersion: 2
@@ -2646,7 +5037,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_235
       rect:
         serializedVersion: 2
@@ -2657,7 +5055,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_236
       rect:
         serializedVersion: 2
@@ -2668,7 +5073,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_237
       rect:
         serializedVersion: 2
@@ -2679,7 +5091,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 7, y: 12}
+        - {x: 10, y: 18}
+        - {x: 10, y: 25}
+        - {x: 9, y: 28}
+        - {x: 6, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_238
       rect:
         serializedVersion: 2
@@ -2690,7 +5111,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -6, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 17}
+        - {x: -10, y: 13}
+        - {x: 5, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 28}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_239
       rect:
         serializedVersion: 2
@@ -2701,7 +5131,14 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -12, y: 30}
+        - {x: -12, y: 12}
+        - {x: 10, y: 12}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_240
       rect:
         serializedVersion: 2
@@ -2712,7 +5149,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 20}
+        - {x: -8, y: 13}
+        - {x: 7, y: 13}
+        - {x: 10, y: 18}
+        - {x: 10, y: 30}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_241
       rect:
         serializedVersion: 2
@@ -2723,7 +5169,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_242
       rect:
         serializedVersion: 2
@@ -2734,7 +5189,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -12, y: 24}
+        - {x: -12, y: 12}
+        - {x: -7, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+        - {x: 4, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_243
       rect:
         serializedVersion: 2
@@ -2745,7 +5209,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -12, y: 24}
+        - {x: -12, y: 12}
+        - {x: -7, y: 11}
+        - {x: 6, y: 11}
+        - {x: 10, y: 17}
+        - {x: 10, y: 25}
+        - {x: 4, y: 31}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_244
       rect:
         serializedVersion: 2
@@ -2756,7 +5229,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_245
       rect:
         serializedVersion: 2
@@ -2767,7 +5249,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 32}
+        - {x: -8, y: 30}
+        - {x: -12, y: 24}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 0, y: 13}
+        - {x: 9, y: 17}
+        - {x: 11, y: 20}
+        - {x: 11, y: 24}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_246
       rect:
         serializedVersion: 2
@@ -2778,7 +5271,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 29}
+        - {x: -12, y: 22}
+        - {x: -12, y: 10}
+        - {x: -7, y: 9}
+        - {x: 6, y: 9}
+        - {x: 10, y: 15}
+        - {x: 10, y: 23}
+        - {x: 4, y: 29}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_247
       rect:
         serializedVersion: 2
@@ -2789,7 +5291,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -11, y: 29}
+        - {x: -11, y: 15}
+        - {x: -9, y: 13}
+        - {x: 3, y: 13}
+        - {x: 10, y: 16}
+        - {x: 10, y: 27}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_248
       rect:
         serializedVersion: 2
@@ -2800,7 +5311,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_249
       rect:
         serializedVersion: 2
@@ -2811,7 +5331,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_250
       rect:
         serializedVersion: 2
@@ -2822,7 +5351,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_251
       rect:
         serializedVersion: 2
@@ -2833,7 +5371,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_252
       rect:
         serializedVersion: 2
@@ -2844,7 +5391,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_253
       rect:
         serializedVersion: 2
@@ -2855,7 +5411,17 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 29}
+        - {x: -12, y: 15}
+        - {x: -8, y: 13}
+        - {x: 2, y: 13}
+        - {x: 8, y: 16}
+        - {x: 10, y: 20}
+        - {x: 10, y: 28}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_254
       rect:
         serializedVersion: 2
@@ -2866,7 +5432,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 14}
+        - {x: -1, y: 14}
+        - {x: 10, y: 18}
+        - {x: 10, y: 28}
+        - {x: 7, y: 32}
+      tessellationDetail: -1
     - name: r2c_male_hair_shark_brown_255
       rect:
         serializedVersion: 2
@@ -2877,7 +5451,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -12, y: 27}
+        - {x: -12, y: 16}
+        - {x: -7, y: 13}
+        - {x: 6, y: 13}
+        - {x: 10, y: 19}
+        - {x: 10, y: 30}
+        - {x: 6, y: 32}
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 

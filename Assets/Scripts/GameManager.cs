@@ -34,10 +34,12 @@ public class GameManager : MonoBehaviour {
 			else if (m_state == GameState.PlayerWins) {
 				Time.timeScale = 0f;
 				Messenger.SendMessage(this, "Player Wins");
+				LoadLevel(m_level.nextLevel);
 			}
 		}
 	}
 
+	Level m_level;
 	string deathReason = "";
 
 	MessageManager m_messenger = new MessageManager();
@@ -60,6 +62,7 @@ public class GameManager : MonoBehaviour {
 	}
 
 	void Start() {
+		m_level = GameObject.FindObjectOfType<Level>();
 		State = GameState.Starting;
 	}
 
@@ -100,5 +103,9 @@ public class GameManager : MonoBehaviour {
 
 	public void RestartLevel() {
 		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+	}
+
+	void LoadLevel(string levelName) {
+		SceneManager.LoadScene(levelName);
 	}
 }

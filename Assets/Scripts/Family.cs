@@ -21,7 +21,7 @@ public class Family : MonoBehaviour {
 			if (value >= maxHunger) {
 				FamilyMember[] familyMembers = GetComponentsInChildren<FamilyMember>();
 				for (int i = 0; i < familyMembers.Length; ++i) {
-					familyMembers[i].State = FamilyMemberState.Dead;
+					familyMembers[i].State = new ActorDeadState();
 				}
 
 				GameManager.Instance.OnGameOver("Your family has starved to death.");
@@ -44,7 +44,7 @@ public class Family : MonoBehaviour {
 			if (value >= maxIllness) {
 				FamilyMember[] familyMembers = GetComponentsInChildren<FamilyMember>();
 				for (int i = 0; i < familyMembers.Length; ++i) {
-					familyMembers[i].State = FamilyMemberState.Dead;
+					familyMembers[i].State = new ActorDeadState();
 				}
 
 				GameManager.Instance.OnGameOver("Your family has gotten too sick and died.");

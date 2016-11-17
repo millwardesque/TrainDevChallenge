@@ -10,7 +10,23 @@ labels:
 - RPG
 - Spritesheet
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: r2c_female_weapon_firebrand_0
+    21300002: r2c_female_weapon_firebrand_1
+    21300004: r2c_female_weapon_firebrand_2
+    21300006: r2c_female_weapon_firebrand_3
+    21300008: r2c_female_weapon_firebrand_4
+    21300010: r2c_female_weapon_firebrand_5
+    21300012: r2c_female_weapon_firebrand_6
+    21300014: r2c_female_weapon_firebrand_7
+    21300016: r2c_female_weapon_firebrand_9
+    21300018: r2c_female_weapon_firebrand_10
+    21300020: r2c_female_weapon_firebrand_11
+    21300022: r2c_female_weapon_firebrand_12
+    21300024: r2c_female_weapon_firebrand_13
+    21300026: r2c_female_weapon_firebrand_14
+    21300028: r2c_female_weapon_firebrand_15
+    21300030: r2c_female_weapon_firebrand_16
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,6 +69,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 32
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings:
   - buildTarget: iPhone
@@ -72,7 +89,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: 15}
+        - {x: -14, y: 8}
+        - {x: -11, y: 7}
+        - {x: -6, y: 7}
+        - {x: -4, y: 11}
+        - {x: -4, y: 14}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_1
       rect:
         serializedVersion: 2
@@ -83,7 +109,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: 1}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 15, y: 6}
+        - {x: 15, y: 13}
+        - {x: 11, y: 14}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_2
       rect:
         serializedVersion: 2
@@ -94,7 +128,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -15, y: 19}
+        - {x: -15, y: 11}
+        - {x: -12, y: 8}
+        - {x: -9, y: 6}
+        - {x: -5, y: 6}
+        - {x: -3, y: 10}
+        - {x: -3, y: 13}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_3
       rect:
         serializedVersion: 2
@@ -105,7 +148,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 2, y: 23}
+        - {x: -13, y: 14}
+        - {x: -13, y: 1}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 13, y: 4}
+        - {x: 15, y: 12}
+        - {x: 15, y: 23}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_4
       rect:
         serializedVersion: 2
@@ -116,7 +168,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -10, y: 24}
+        - {x: -12, y: 21}
+        - {x: -13, y: 14}
+        - {x: -10, y: 11}
+        - {x: -7, y: 11}
+        - {x: -5, y: 13}
+        - {x: -5, y: 23}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_5
       rect:
         serializedVersion: 2
@@ -127,7 +188,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -12, y: 20}
+        - {x: -12, y: 10}
+        - {x: -5, y: 0}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 8}
+        - {x: 6, y: 14}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_6
       rect:
         serializedVersion: 2
@@ -138,7 +208,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 11}
+        - {x: 1, y: 7}
+        - {x: 1, y: 4}
+        - {x: 7, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 3}
+        - {x: 10, y: 9}
+        - {x: 7, y: 11}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_7
       rect:
         serializedVersion: 2
@@ -149,7 +228,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 25}
+        - {x: 4, y: 4}
+        - {x: 5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 16, y: 3}
+        - {x: 16, y: 21}
+        - {x: 10, y: 25}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_9
       rect:
         serializedVersion: 2
@@ -160,7 +247,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: 15}
+        - {x: -14, y: 8}
+        - {x: -11, y: 7}
+        - {x: -6, y: 7}
+        - {x: -4, y: 11}
+        - {x: -4, y: 14}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_10
       rect:
         serializedVersion: 2
@@ -171,7 +267,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: 1}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 15, y: 6}
+        - {x: 15, y: 13}
+        - {x: 11, y: 14}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_11
       rect:
         serializedVersion: 2
@@ -182,7 +286,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -15, y: 19}
+        - {x: -15, y: 11}
+        - {x: -12, y: 8}
+        - {x: -9, y: 6}
+        - {x: -5, y: 6}
+        - {x: -3, y: 10}
+        - {x: -3, y: 13}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_12
       rect:
         serializedVersion: 2
@@ -193,7 +306,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 2, y: 23}
+        - {x: -13, y: 14}
+        - {x: -13, y: 1}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 13, y: 4}
+        - {x: 15, y: 12}
+        - {x: 15, y: 23}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_13
       rect:
         serializedVersion: 2
@@ -204,7 +326,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -10, y: 24}
+        - {x: -12, y: 21}
+        - {x: -13, y: 14}
+        - {x: -10, y: 11}
+        - {x: -7, y: 11}
+        - {x: -5, y: 13}
+        - {x: -5, y: 23}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_14
       rect:
         serializedVersion: 2
@@ -215,7 +346,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -12, y: 20}
+        - {x: -12, y: 10}
+        - {x: -5, y: 0}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 8}
+        - {x: 6, y: 14}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_15
       rect:
         serializedVersion: 2
@@ -226,7 +366,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 3, y: 11}
+        - {x: 1, y: 7}
+        - {x: 1, y: 4}
+        - {x: 7, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 3}
+        - {x: 10, y: 9}
+        - {x: 7, y: 11}
+      tessellationDetail: -1
     - name: r2c_female_weapon_firebrand_16
       rect:
         serializedVersion: 2
@@ -237,7 +386,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 4, y: 25}
+        - {x: 4, y: 4}
+        - {x: 5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 16, y: 3}
+        - {x: 16, y: 21}
+        - {x: 10, y: 25}
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 

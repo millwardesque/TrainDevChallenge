@@ -10,7 +10,19 @@ labels:
 - RPG
 - Spritesheet
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: r2c_female_weapon_bow_0
+    21300002: r2c_female_weapon_bow_1
+    21300004: r2c_female_weapon_bow_2
+    21300006: r2c_female_weapon_bow_3
+    21300008: r2c_female_weapon_bow_4
+    21300010: r2c_female_weapon_bow_5
+    21300012: r2c_female_weapon_bow_6
+    21300014: r2c_female_weapon_bow_7
+    21300016: r2c_female_weapon_bow_8
+    21300018: r2c_female_weapon_bow_9
+    21300020: r2c_female_weapon_bow_10
+    21300022: r2c_female_weapon_bow_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,6 +65,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 32
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings:
   - buildTarget: iPhone
@@ -72,7 +85,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -5, y: 21}
+        - {x: -5, y: 5}
+        - {x: -3, y: 2}
+        - {x: 1, y: 2}
+        - {x: 5, y: 4}
+        - {x: 5, y: 22}
+        - {x: 1, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_1
       rect:
         serializedVersion: 2
@@ -83,7 +105,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -4, y: 5}
+        - {x: -1, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_2
       rect:
         serializedVersion: 2
@@ -94,7 +122,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -1, y: 24}
+        - {x: -2, y: 20}
+        - {x: -2, y: 5}
+        - {x: 1, y: 2}
+        - {x: 7, y: 2}
+        - {x: 12, y: 7}
+        - {x: 12, y: 17}
+        - {x: 8, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_3
       rect:
         serializedVersion: 2
@@ -105,7 +142,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 2, y: 24}
+        - {x: 1, y: 23}
+        - {x: 1, y: 2}
+        - {x: 8, y: 2}
+        - {x: 11, y: 7}
+        - {x: 11, y: 19}
+        - {x: 8, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_4
       rect:
         serializedVersion: 2
@@ -116,7 +161,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -11, y: 22}
+        - {x: -13, y: 12}
+        - {x: -11, y: 7}
+        - {x: -8, y: 2}
+        - {x: 1, y: 2}
+        - {x: 1, y: 22}
+        - {x: -1, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_5
       rect:
         serializedVersion: 2
@@ -127,7 +181,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 6}
+        - {x: -11, y: 2}
+        - {x: -3, y: 2}
+        - {x: -2, y: 3}
+        - {x: -2, y: 21}
+        - {x: -3, y: 24}
+        - {x: -9, y: 24}
+        - {x: -12, y: 22}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_6
       rect:
         serializedVersion: 2
@@ -138,7 +201,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -5, y: 21}
+        - {x: -5, y: 5}
+        - {x: -3, y: 2}
+        - {x: 1, y: 2}
+        - {x: 5, y: 4}
+        - {x: 5, y: 22}
+        - {x: 1, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_7
       rect:
         serializedVersion: 2
@@ -149,7 +221,13 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -4, y: 5}
+        - {x: -1, y: 2}
+        - {x: 5, y: 2}
+        - {x: 5, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_8
       rect:
         serializedVersion: 2
@@ -160,7 +238,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -1, y: 24}
+        - {x: -2, y: 20}
+        - {x: -2, y: 5}
+        - {x: 1, y: 2}
+        - {x: 7, y: 2}
+        - {x: 12, y: 7}
+        - {x: 12, y: 17}
+        - {x: 8, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_9
       rect:
         serializedVersion: 2
@@ -171,7 +258,15 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 2, y: 24}
+        - {x: 1, y: 23}
+        - {x: 1, y: 2}
+        - {x: 8, y: 2}
+        - {x: 11, y: 7}
+        - {x: 11, y: 19}
+        - {x: 8, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_10
       rect:
         serializedVersion: 2
@@ -182,7 +277,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -11, y: 22}
+        - {x: -13, y: 12}
+        - {x: -11, y: 7}
+        - {x: -8, y: 2}
+        - {x: 1, y: 2}
+        - {x: 1, y: 22}
+        - {x: -1, y: 24}
+      tessellationDetail: -1
     - name: r2c_female_weapon_bow_11
       rect:
         serializedVersion: 2
@@ -193,7 +297,16 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -12, y: 6}
+        - {x: -11, y: 2}
+        - {x: -3, y: 2}
+        - {x: -2, y: 3}
+        - {x: -2, y: 21}
+        - {x: -3, y: 24}
+        - {x: -9, y: 24}
+        - {x: -12, y: 22}
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 
